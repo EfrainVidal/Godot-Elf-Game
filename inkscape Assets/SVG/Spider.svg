@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Spider.svg"
+   inkscape:export-filename="Spider.png"
+   inkscape:export-xdpi="291"
+   inkscape:export-ydpi="291"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="12.593751"
+     inkscape:cx="96.039696"
+     inkscape:cy="32.079402"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1363">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       spacingx="8"
+       spacingy="8"
+       empspacing="8"
+       originx="0"
+       originy="0" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="64"
+       height="64"
+       id="page502"
+       inkscape:export-filename="..\PNG\Spider Idle 1.png"
+       inkscape:export-xdpi="291"
+       inkscape:export-ydpi="291" />
+    <inkscape:page
+       x="64.045212"
+       y="0.048328891"
+       width="64"
+       height="63.999992"
+       id="page504"
+       inkscape:export-filename="..\PNG\Spider Idle 2.png"
+       inkscape:export-xdpi="291"
+       inkscape:export-ydpi="291" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     id="g1231"
+     inkscape:label="Spider and Union"
+     transform="translate(63.845385,0.30766987)">
+    <path
+       id="path2891"
+       style="fill:#0000ff;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       inkscape:label="Top Leg"
+       d="m 37.801332,31.799752 -3.111328,1.669922 -0.55664,1.498047 h -4.382813 l -0.548828,-1.476563 -3.111328,-1.669922 -2.763672,1.238282 2.484375,1.908203 H 17.81891 c -0.728768,0 -1.316406,0.587637 -1.316406,1.316406 v 2.912109 c 0,0.696591 0.538886,1.255994 1.222656,1.304688 v 1.388672 L 3.7251609,35.51069 C 2.5699472,34.984397 -0.05843306,54.385795 0.33648903,54.295846 2.2979258,53.677224 0.24171625,55.170574 2.1743796,55.54194 2.5686413,55.617699 3.5592322,37.425579 5.7095359,38.409127 l 3.0722656,1.40625 2.7519525,1.166016 6.191406,2.890625 v 0.621093 L 5.4849265,39.256783 c -0.751776,-0.32156 -1.3713664,8.480646 -1.5585937,13.789063 -0.6065786,2.573571 -1.0281628,4.612767 -0.9257813,4.597656 1.4576026,-0.357596 -0.1561116,0.72996 1.1816406,1.205078 0.062477,0.02219 0.2548308,-0.819008 0.5136719,-2.027344 0.314613,0.157688 -0.3215616,1.032612 0.9960938,1.251954 0.1583341,0.02637 0.1376174,-3.282295 0.2363281,-6.914063 0.8314957,-3.579021 1.7903112,-6.959248 2.4882812,-6.466797 l 2.0449219,1.44336 1.841796,1.21289 5.421875,3.898438 v 0.541015 L 7.758364,46.461861 C 6.9418916,46.025563 6.1633064,62.641059 6.4282859,62.559518 c 1.3070193,-0.551985 -0.018955,0.750213 1.3203125,1.044922 0.2732124,0.06012 -0.00438,-15.502967 1.515625,-14.6875 l 2.1738276,1.166015 1.939453,0.962891 4.347656,2.380859 v 4.257813 c 0,0.733728 0.590491,1.324218 1.324219,1.324218 h 11.699219 c 0.013,0.0026 0.0258,0.0059 0.03906,0.0059 h 2.5625 c 0.01326,0 0.02607,-0.0032 0.03906,-0.0059 h 11.923828 c 0.733728,0 1.324219,-0.59049 1.324219,-1.324218 v -4.175782 l 4.43164,-2.427734 1.941407,-0.962891 2.171875,-1.166015 c 1.519951,-0.815466 1.242412,14.74762 1.515625,14.6875 1.339271,-0.294709 0.01329,-1.596907 1.320312,-1.044922 0.26498,0.08154 -0.513606,-16.533955 -1.330078,-16.097656 L 46.63727,51.868111 v -0.52539 l 5.507812,-3.958985 1.839844,-1.21289 2.044922,-1.44336 c 0.698097,-0.49254 1.658634,2.889007 2.490234,6.46875 0.09865,3.631007 0.07607,6.936517 0.234375,6.910157 1.315974,-0.219061 0.686256,-1.088737 0.998047,-1.248047 0.258582,1.207051 0.451234,2.047563 0.513672,2.02539 1.337752,-0.475118 -0.275962,-1.562673 1.181641,-1.205078 0.102497,0.01513 -0.320024,-2.029648 -0.927735,-4.607422 C 60.332421,47.761738 59.714736,38.970585 58.963442,39.29194 L 46.63727,44.565377 v -0.619141 l 6.27539,-2.929687 2.751954,-1.166016 3.074218,-1.40625 c 2.150304,-0.983548 3.140895,17.208573 3.535157,17.132813 1.932665,-0.371366 -0.125499,-1.864715 1.835937,-1.246094 0.394923,0.08995 -2.233458,-19.311449 -3.388672,-18.785156 L 46.63727,41.963815 v -1.47461 c 0.616677,-0.109538 1.083984,-0.643885 1.083984,-1.292969 v -2.912109 c 0,-0.728769 -0.587637,-1.316406 -1.316406,-1.316406 h -8.351563 l 2.511719,-1.929688 z m 0.240235,1.296875 -0.365235,0.96875 -1.179687,0.902344 h -0.550781 l 0.771484,-1.046875 z m -12.191407,0.02148 1.324219,0.824219 0.75586,1.025391 h -0.5625 l -1.152344,-0.88086 z M 7.3110984,41.887643 c 0.057692,-0.0071 0.1170883,0.0024 0.1796875,0.0293 l 2.8632811,1.230468 2.554687,1.013672 4.816406,2.113281 v 1.392579 c -0.09491,0.07405 -0.151749,0.156244 -0.152343,0.24414 l -0.0098,1.388672 -10.2656245,-7.21875 C 7.1414083,41.971314 6.8555264,42.570301 6.508364,43.559518 6.7046809,42.564198 6.9649491,41.93009 7.3110984,41.887643 Z m 49.8261716,0.03516 c 0.346149,0.04245 0.606417,0.676556 0.802734,1.671875 -0.347228,-0.989465 -0.633022,-1.588219 -0.789062,-1.478516 l -10.47461,7.365235 0.0098,-1.429688 c 3.24e-4,-0.04794 -0.01956,-0.09403 -0.04883,-0.138672 v -1.566406 l 4.90039,-2.150391 2.556641,-1.013671 2.863281,-1.230469 c 0.0626,-0.02689 0.121996,-0.03637 0.179688,-0.0293 z" />
+    <g
+       inkscape:label="Spider"
+       inkscape:groupmode="layer"
+       id="g1710"
+       transform="translate(0.0506073,-0.24115433)">
+      <g
+         id="g1580"
+         inkscape:label="Right Legs"
+         transform="matrix(1.6719976,0,0,1.6719976,-16.937211,6.816461)"
+         style="fill:#0044aa;fill-opacity:1">
+        <path
+           id="path1572"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0528781;fill-opacity:1"
+           inkscape:label="Top Leg"
+           d="m 47.344141,29.307224 c -0.235803,0.04531 -0.828112,-10.834879 -2.114182,-10.246631 l -1.8382,0.840793 -1.645757,0.697027 -5.745943,2.683926 c -0.21731,0.101502 -1.256876,-0.372929 -1.167919,-0.596877 l 0.660725,-1.663413 c 0.08892,-0.223966 0.556951,1.027941 1.150074,0.757723 l 9.773182,-4.452484 c 0.690919,-0.314769 2.263005,11.288255 2.026807,11.234458 -1.173111,-0.36999 0.05711,0.523369 -1.098792,0.745478 z"
+           sodipodi:nodetypes="csccssssscc" />
+        <path
+           id="path1574"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0484945;fill-opacity:1"
+           inkscape:label="Third Leg"
+           d="m 45.239923,30.820695 c -0.21468,0.03575 0.122675,-10.17689 -1.075398,-9.662321 l -1.712424,0.735486 -1.528698,0.606254 -5.357227,2.351249 c -0.202607,0.08892 -1.024275,-0.340508 -0.947184,-0.556564 l 0.586189,-1.642852 c 0.0771,-0.216041 0.5038,1.046005 1.056254,0.809699 l 9.103042,-3.893722 c 0.643542,-0.275265 1.125555,10.642663 0.91842,10.585514 -1.020539,-0.380198 0.0094,0.492073 -1.042973,0.667254 z"
+           sodipodi:nodetypes="csccsssssccc" />
+        <path
+           id="path1576"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0412511;fill-opacity:1"
+           inkscape:label="Second Leg"
+           d="m 46.143207,31.284987 c -0.163219,0.05796 -1.67662,-9.070572 -2.53259,-8.466645 l -1.223445,0.863193 -1.100959,0.725811 -3.818724,2.745244 c -0.144422,0.103824 -0.931663,-0.209338 -0.89085,-0.405708 l 0.303141,-1.458529 c 0.04077,-0.196378 0.499426,0.820495 0.894298,0.542879 l 6.506502,-4.574391 c 0.459981,-0.323388 2.743017,9.332861 2.569569,9.307262 -0.871774,-0.213874 0.09315,0.436713 -0.706943,0.720875 z"
+           sodipodi:nodetypes="csccssssscc" />
+        <path
+           id="path1578"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.040423;fill-opacity:1"
+           inkscape:label="Bottom Leg"
+           d="m 44.010094,34.129053 c -0.163405,0.03596 0.0023,-9.27195 -0.906791,-8.78423 l -1.299362,0.697104 -1.160411,0.576476 -4.064534,2.226699 c -0.153719,0.08422 -0.784203,-0.29392 -0.727351,-0.491942 l 0.432317,-1.505751 c 0.05686,-0.198016 0.3936,0.9448 0.812802,0.72079 l 6.907403,-3.691132 c 0.488322,-0.260945 0.95384,9.676417 0.795359,9.627648 -0.781712,-0.330135 0.01157,0.448073 -0.789429,0.624335 z"
+           sodipodi:nodetypes="csccsssssccc" />
+      </g>
+      <g
+         id="g1590"
+         inkscape:label="Left Legs"
+         transform="matrix(-1.6719976,0,0,1.6719976,81.282412,6.781461)"
+         style="fill:#0044aa;fill-opacity:1">
+        <path
+           id="path1582"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0528781;fill-opacity:1"
+           inkscape:label="Top Leg"
+           d="m 47.344141,29.307224 c -0.235803,0.04531 -0.828112,-10.834879 -2.114182,-10.246631 l -1.8382,0.840793 -1.645757,0.697027 -5.745943,2.683926 c -0.21731,0.101502 -1.256876,-0.372929 -1.167919,-0.596877 l 0.660725,-1.663413 c 0.08892,-0.223966 0.556951,1.027941 1.150074,0.757723 l 9.773182,-4.452484 c 0.690919,-0.314769 2.263005,11.288255 2.026807,11.234458 -1.173111,-0.36999 0.05711,0.523369 -1.098792,0.745478 z"
+           sodipodi:nodetypes="csccssssscc" />
+        <path
+           id="path1584"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0484945;fill-opacity:1"
+           inkscape:label="Third Leg"
+           d="m 45.239923,30.820695 c -0.21468,0.03575 0.122675,-10.17689 -1.075398,-9.662321 l -1.712424,0.735486 -1.528698,0.606254 -5.357227,2.351249 c -0.202607,0.08892 -1.024275,-0.340508 -0.947184,-0.556564 l 0.586189,-1.642852 c 0.0771,-0.216041 0.5038,1.046005 1.056254,0.809699 l 9.103042,-3.893722 c 0.643542,-0.275265 1.125555,10.642663 0.91842,10.585514 -1.020539,-0.380198 0.0094,0.492073 -1.042973,0.667254 z"
+           sodipodi:nodetypes="csccsssssccc" />
+        <path
+           id="path1586"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0412511;fill-opacity:1"
+           inkscape:label="Second Leg"
+           d="m 46.143207,31.284987 c -0.163219,0.05796 -1.67662,-9.070572 -2.53259,-8.466645 l -1.223445,0.863193 -1.100959,0.725811 -3.818724,2.745244 c -0.144422,0.103824 -0.931663,-0.209338 -0.89085,-0.405708 l 0.303141,-1.458529 c 0.04077,-0.196378 0.499426,0.820495 0.894298,0.542879 l 6.506502,-4.574391 c 0.459981,-0.323388 2.743017,9.332861 2.569569,9.307262 -0.871774,-0.213874 0.09315,0.436713 -0.706943,0.720875 z"
+           sodipodi:nodetypes="csccssssscc" />
+        <path
+           id="path1588"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.040423;fill-opacity:1"
+           inkscape:label="Bottom Leg"
+           d="m 44.010094,34.129053 c -0.163405,0.03596 0.0023,-9.27195 -0.906791,-8.78423 l -1.299362,0.697104 -1.160411,0.576476 -4.064534,2.226699 c -0.153719,0.08422 -0.784203,-0.29392 -0.727351,-0.491942 l 0.432317,-1.505751 c 0.05686,-0.198016 0.3936,0.9448 0.812802,0.72079 l 6.907403,-3.691132 c 0.488322,-0.260945 0.95384,9.676417 0.795359,9.627648 -0.781712,-0.330135 0.01157,0.448073 -0.789429,0.624335 z"
+           sodipodi:nodetypes="csccsssssccc" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g1600"
+         inkscape:label="Body"
+         transform="matrix(0.88276044,0,0,0.94786115,1.7593848,1.6788801)">
+        <rect
+           style="fill:#ff7402;fill-opacity:1;stroke:none;stroke-width:0.0710139"
+           id="rect1592"
+           width="32.753304"
+           height="23.676085"
+           x="18.027651"
+           y="37.062286"
+           ry="1.3972727"
+           inkscape:label="Torso" />
+        <g
+           inkscape:groupmode="layer"
+           id="g1598"
+           inkscape:label="Ribbons"
+           style="fill:#ff9955">
+          <rect
+             style="fill:#2a7fff;stroke:#000000;stroke-width:0.0586711;fill-opacity:1"
+             id="rect1594"
+             width="4.0319657"
+             height="25.192196"
+             x="32.260513"
+             y="35.551502"
+             ry="1.364055"
+             rx="0.56449127"
+             inkscape:label="Vertical" />
+          <rect
+             style="fill:#2a7fff;stroke:#000000;stroke-width:0.0698718;fill-opacity:1"
+             id="rect1596"
+             width="4.3682227"
+             height="32.978699"
+             x="48.337933"
+             y="-51.190845"
+             ry="1.7856628"
+             rx="0.61156857"
+             transform="matrix(-0.00726385,0.99997362,-0.99998999,-0.00447364,0,0)"
+             inkscape:label="Horizontal" />
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g1678"
+         inkscape:label="Eyes"
+         transform="matrix(0.88276044,0,0,0.94786115,1.7593848,1.6788801)">
+        <g
+           id="g1638"
+           inkscape:label="Left Eyes"
+           transform="matrix(-0.84361677,0,0,1.0310591,49.22111,24.467655)">
+          <g
+             inkscape:groupmode="layer"
+             id="g1606"
+             inkscape:label="Bottom Big Eye Left"
+             transform="matrix(-1.6153705,0,0,1.4356384,63.108039,-10.934493)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1602"
+               cx="32.286877"
+               cy="4.5359368"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1604"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1612"
+             inkscape:label="Top Big Eye Left"
+             transform="matrix(-1.6153705,0,0,1.4356384,62.169687,-13.052006)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1608"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1610"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1618"
+             inkscape:label="Top Left Small Eye Left"
+             transform="matrix(-1,0,0,1,49.297486,-5.4372721)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1614"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1616"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1624"
+             inkscape:label="Middle Small Eye Left"
+             transform="matrix(-1,0,0,1,49.43905,-3.3969907)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1620"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1622"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1630"
+             inkscape:label="Top Small Eye Left"
+             transform="matrix(-1,0,0,1,46.566186,-5.5855663)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1626"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1628"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1636"
+             inkscape:label="Bottom Small Eye Left"
+             transform="matrix(-1,0,0,1,50.353949,-1.4506679)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1632"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1634"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+        </g>
+        <g
+           id="g1676"
+           inkscape:label="Right Eyes"
+           transform="matrix(0.84361677,0,0,1.0310591,19.387503,24.467655)">
+          <g
+             inkscape:groupmode="layer"
+             id="g1644"
+             inkscape:label="Bottom Big Eye"
+             transform="matrix(-1.6153705,0,0,1.4356384,63.108039,-10.934493)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1640"
+               cx="32.286877"
+               cy="4.5359368"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1642"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1650"
+             inkscape:label="Top Big Eye"
+             transform="matrix(-1.6153705,0,0,1.4356384,62.169687,-13.052006)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1646"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1648"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1656"
+             inkscape:label="Top Left Small Eye"
+             transform="matrix(-1,0,0,1,49.297486,-5.4372721)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1652"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1654"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1662"
+             inkscape:label="Middle Small Eye"
+             transform="matrix(-1,0,0,1,49.43905,-3.3969907)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1658"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1660"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1668"
+             inkscape:label="Top Small Eye"
+             transform="matrix(-1,0,0,1,46.566186,-5.5855663)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1664"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1666"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1674"
+             inkscape:label="Bottom Small Eye"
+             transform="matrix(-1,0,0,1,50.353949,-1.4506679)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1670"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1672"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g1686"
+         inkscape:label="Whole Mouth"
+         transform="matrix(1.164083,0,0,1.4034373,-0.46545332,14.201837)">
+        <path
+           id="path1680"
+           style="fill:#2b0000;stroke:#000000;stroke-width:0.05"
+           d="m 34.301436,27.825562 c 0.602721,1.738909 -3.183664,2.610996 -6.306851,2.618717 -3.123189,0.0077 -6.555971,-1.325256 -6.558793,-2.467228 -0.0021,-0.842765 3.369847,0.08143 6.493034,0.07371 3.123186,-0.0077 6.09661,-1.021492 6.37261,-0.225201 z"
+           sodipodi:nodetypes="sssss"
+           inkscape:label="Mouth opening" />
+        <path
+           id="path1682"
+           style="fill:#f9f9f9;stroke:#000000;stroke-width:0.0540693"
+           inkscape:transform-center-x="-0.013322516"
+           inkscape:transform-center-y="0.55566261"
+           d="m 24.2008,28.355217 -0.527841,-0.573961 -0.735271,0.393032 -0.591121,-0.560447 0.766873,0.02248 0.957333,0.116388 2.172201,0.237085 2.631112,0.02131 0.726877,0.993863 0.495398,-0.996387 0.462559,0.403236 0.250253,-0.552668 0.372205,0.467709 0.290349,-0.580192 0.307414,0.444808 0.290243,-0.503685 0.495138,0.384868 0.259639,-0.486503 0.337595,0.500948 0.293524,-0.557239 -0.316132,0.0053 -0.60286,0.05507 -0.816703,0.08752 -0.504667,0.09145 -0.406671,0.07685 -0.675992,0.058 -1.690782,0.14781 -0.628563,1.009883 -0.467185,-1.062915 c -0.223604,0.144612 -0.452697,0.366009 -0.706233,0.501626 l -0.37006,-0.47374 -0.612115,0.425132 -0.676543,-0.596178 z"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc"
+           inkscape:label="Top Teeth" />
+        <path
+           id="path1684"
+           style="fill:#f9f9f9;stroke:#000000;stroke-width:0.054105"
+           inkscape:transform-center-x="-0.011809734"
+           inkscape:transform-center-y="-0.58105437"
+           d="m 23.916377,29.738463 0.03192,-0.722122 -0.666374,0.528801 -0.619736,-0.250235 0.613033,-0.507117 0.03025,0.789806 1.042397,0.370225 1.528522,0.342583 1.656846,0.154481 c 0.324962,0.12758 1.575931,-0.0043 1.951111,-0.05461 l 0.815097,-0.09874 0.538895,-0.715599 0.504534,0.557431 0.174404,-0.629437 0.318442,0.495489 0.720024,-0.206609 0.815286,-0.341024 -0.452781,-0.327659 -0.05589,0.569216 -0.270227,-0.428205 -0.300087,0.610642 -0.188522,-0.499211 -0.276745,0.628168 -0.545901,0.142873 -0.972183,0.142545 -0.233644,-0.642959 -0.58755,0.727279 -0.211794,-1.029683 c 0,0 -0.105942,0.202664 -0.201175,0.442815 -0.116564,0.293941 -0.235716,0.636588 -0.35552,0.64027 -0.163524,0.005 -0.06192,-1.011609 -0.219987,-1.003731 l -0.950681,1.013961 -0.356923,-1.033118 -0.373468,0.991599 -0.14593,-0.537977 c -0.208985,-0.155524 -0.549749,0.558967 -0.786822,0.412915 l -0.179475,-0.595744 -0.931652,0.346971 -0.04406,-0.677912 z"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccsscccccccccc"
+           inkscape:label="Bottom Teeth" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g1690"
+         inkscape:label="Top"
+         transform="matrix(0.88276044,0,0,0.94786115,1.7593848,1.6788801)"
+         style="fill:#005500">
+        <rect
+           style="fill:#aa4400;stroke:#000000;stroke-width:0.0700507;fill-opacity:1"
+           id="rect1688"
+           width="35.36438"
+           height="5.8479052"
+           x="16.643515"
+           y="35.374985"
+           ry="1.387828"
+           inkscape:label="Lid" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g1698"
+         inkscape:label="Bow"
+         transform="matrix(0.88276044,0,0,0.94786115,1.7593848,1.6788801)"
+         style="fill:#0066ff">
+        <path
+           id="path1692"
+           style="fill:#0066ff;stroke:#000000;stroke-width:0.0740797"
+           d="m 35.458157,39.379219 8.442718,-6.040848 -3.130021,-1.306099 -3.524854,1.761317 -1.673956,4.192388 -0.107359,1.437532 4.077164,-5.153237 1.500865,-0.868878 -0.413965,1.021672 -4.918321,3.50153 z"
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:label="Right" />
+        <path
+           id="path1694"
+           style="fill:#0066ff;stroke:#000000;stroke-width:0.0740797"
+           d="m 32.816615,39.401363 -8.442715,-6.040846 3.130018,-1.3061 3.524859,1.761314 1.673954,4.192389 0.107358,1.437534 -4.077162,-5.153239 -1.500866,-0.868877 0.413966,1.021673 4.918323,3.501529 z"
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:label="Left" />
+        <rect
+           style="fill:#0066ff;stroke:#000000;stroke-width:0.0710139"
+           id="rect1696"
+           width="3.0784974"
+           height="2.2809212"
+           x="32.60088"
+           y="37.560848"
+           rx="0.8726117"
+           ry="0.60448861"
+           inkscape:label="Middle" />
+      </g>
+      <path
+         id="path1700"
+         style="fill:#2b0000;stroke-width:0.124326"
+         d="m 19.191458,39.977982 c -0.02872,0.0357 -0.993731,0.333025 -1.659499,0.142422 -0.665758,-0.190575 -0.314558,-1.088199 -0.285931,-1.123956 0.02872,-0.0357 -0.276069,0.803921 0.389691,0.994496 0.665761,0.190576 1.584369,-0.04872 1.555738,-0.01296 z"
+         sodipodi:nodetypes="cscsc" />
+      <path
+         id="path1702"
+         style="fill:#2b0000;stroke-width:0.124326"
+         d="m 44.835434,35.90975 c 0.02872,-0.0357 0.993731,-0.333025 1.659499,-0.142422 0.665758,0.190575 0.314558,1.088199 0.285931,1.123956 -0.02872,0.0357 0.276069,-0.803921 -0.389691,-0.994496 -0.665761,-0.190576 -1.584369,0.04872 -1.555738,0.01296 z"
+         sodipodi:nodetypes="cscsc" />
+      <path
+         id="path1704"
+         style="fill:#2b0000;stroke-width:0.109036"
+         d="m 40.042824,55.167566 c 0,0 0.296144,0.033 0.310529,-0.224898 0.02808,-0.503363 -0.109986,-1.555062 -0.235334,-2.173276 -0.18957,-0.934939 -0.62634,-0.392826 -0.641825,-0.350472 -0.01545,0.04248 0.396221,-0.430959 0.585775,0.503985 0.124956,0.616308 0.271901,1.550466 0.232377,1.99908 -0.02044,0.231938 -0.387758,0.20784 -0.387758,0.20784 z"
+         sodipodi:nodetypes="csscsscc" />
+      <path
+         id="path1706"
+         style="fill:#2b0000;stroke-width:0.109036"
+         d="m 24.175916,54.955993 c 0,0 -0.296144,0.033 -0.310529,-0.224898 -0.02808,-0.503363 0.109986,-1.555062 0.235334,-2.173276 0.18957,-0.934939 0.62634,-0.392826 0.641825,-0.350472 0.01545,0.04248 -0.396221,-0.430959 -0.585775,0.503985 -0.124956,0.616308 -0.271901,1.550466 -0.232377,1.99908 0.02044,0.231938 0.387758,0.20784 0.387758,0.20784 z"
+         sodipodi:nodetypes="csscsscc" />
+      <path
+         id="path1708"
+         style="fill:#2b0000;stroke-width:0.124326"
+         d="m 19.191458,39.977982 c -0.02872,0.0357 -0.993731,0.333025 -1.659499,0.142422 -0.665758,-0.190575 -0.314558,-1.088199 -0.285931,-1.123956 0.02872,-0.0357 -0.276069,0.803921 0.389691,0.994496 0.665761,0.190576 1.584369,-0.04872 1.555738,-0.01296 z"
+         sodipodi:nodetypes="cscsc" />
+    </g>
+  </g>
+  <script
+     id="mesh_polyfill"
+     type="text/javascript">
+!function(){const t=&quot;http://www.w3.org/2000/svg&quot;,e=&quot;http://www.w3.org/1999/xlink&quot;,s=&quot;http://www.w3.org/1999/xhtml&quot;,r=2;if(document.createElementNS(t,&quot;meshgradient&quot;).x)return;const n=(t,e,s,r)=&gt;{let n=new x(.5*(e.x+s.x),.5*(e.y+s.y)),o=new x(.5*(t.x+e.x),.5*(t.y+e.y)),i=new x(.5*(s.x+r.x),.5*(s.y+r.y)),a=new x(.5*(n.x+o.x),.5*(n.y+o.y)),h=new x(.5*(n.x+i.x),.5*(n.y+i.y)),l=new x(.5*(a.x+h.x),.5*(a.y+h.y));return[[t,o,a,l],[l,h,i,r]]},o=t=&gt;{let e=t[0].distSquared(t[1]),s=t[2].distSquared(t[3]),r=.25*t[0].distSquared(t[2]),n=.25*t[1].distSquared(t[3]),o=e&gt;s?e:s,i=r&gt;n?r:n;return 18*(o&gt;i?o:i)},i=(t,e)=&gt;Math.sqrt(t.distSquared(e)),a=(t,e)=&gt;t.scale(2/3).add(e.scale(1/3)),h=t=&gt;{let e,s,r,n,o,i,a,h=new g;return t.match(/(\w+\(\s*[^)]+\))+/g).forEach(t=&gt;{let l=t.match(/[\w.-]+/g),d=l.shift();switch(d){case&quot;translate&quot;:2===l.length?e=new g(1,0,0,1,l[0],l[1]):(console.error(&quot;mesh.js: translate does not have 2 arguments!&quot;),e=new g(1,0,0,1,0,0)),h=h.append(e);break;case&quot;scale&quot;:1===l.length?s=new g(l[0],0,0,l[0],0,0):2===l.length?s=new g(l[0],0,0,l[1],0,0):(console.error(&quot;mesh.js: scale does not have 1 or 2 arguments!&quot;),s=new g(1,0,0,1,0,0)),h=h.append(s);break;case&quot;rotate&quot;:if(3===l.length&amp;&amp;(e=new g(1,0,0,1,l[1],l[2]),h=h.append(e)),l[0]){r=l[0]*Math.PI/180;let t=Math.cos(r),e=Math.sin(r);Math.abs(t)&lt;1e-16&amp;&amp;(t=0),Math.abs(e)&lt;1e-16&amp;&amp;(e=0),a=new g(t,e,-e,t,0,0),h=h.append(a)}else console.error(&quot;math.js: No argument to rotate transform!&quot;);3===l.length&amp;&amp;(e=new g(1,0,0,1,-l[1],-l[2]),h=h.append(e));break;case&quot;skewX&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),o=new g(1,0,n,1,0,0),h=h.append(o)):console.error(&quot;math.js: No argument to skewX transform!&quot;);break;case&quot;skewY&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),i=new g(1,n,0,1,0,0),h=h.append(i)):console.error(&quot;math.js: No argument to skewY transform!&quot;);break;case&quot;matrix&quot;:6===l.length?h=h.append(new g(...l)):console.error(&quot;math.js: Incorrect number of arguments for matrix!&quot;);break;default:console.error(&quot;mesh.js: Unhandled transform type: &quot;+d)}}),h},l=t=&gt;{let e=[],s=t.split(/[ ,]+/);for(let t=0,r=s.length-1;t&lt;r;t+=2)e.push(new x(parseFloat(s[t]),parseFloat(s[t+1])));return e},d=(t,e)=&gt;{for(let s in e)t.setAttribute(s,e[s])},c=(t,e,s,r,n)=&gt;{let o,i,a=[0,0,0,0];for(let h=0;h&lt;3;++h)e[h]&lt;t[h]&amp;&amp;e[h]&lt;s[h]||t[h]&lt;e[h]&amp;&amp;s[h]&lt;e[h]?a[h]=0:(a[h]=.5*((e[h]-t[h])/r+(s[h]-e[h])/n),o=Math.abs(3*(e[h]-t[h])/r),i=Math.abs(3*(s[h]-e[h])/n),a[h]&gt;o?a[h]=o:a[h]&gt;i&amp;&amp;(a[h]=i));return a},u=[[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0],[-3,3,0,0,-2,-1,0,0,0,0,0,0,0,0,0,0],[2,-2,0,0,1,1,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0],[0,0,0,0,0,0,0,0,-3,3,0,0,-2,-1,0,0],[0,0,0,0,0,0,0,0,2,-2,0,0,1,1,0,0],[-3,0,3,0,0,0,0,0,-2,0,-1,0,0,0,0,0],[0,0,0,0,-3,0,3,0,0,0,0,0,-2,0,-1,0],[9,-9,-9,9,6,3,-6,-3,6,-6,3,-3,4,2,2,1],[-6,6,6,-6,-3,-3,3,3,-4,4,-2,2,-2,-2,-1,-1],[2,0,-2,0,0,0,0,0,1,0,1,0,0,0,0,0],[0,0,0,0,2,0,-2,0,0,0,0,0,1,0,1,0],[-6,6,6,-6,-4,-2,4,2,-3,3,-3,3,-2,-1,-2,-1],[4,-4,-4,4,2,2,-2,-2,2,-2,2,-2,1,1,1,1]],f=t=&gt;{let e=[];for(let s=0;s&lt;16;++s){e[s]=0;for(let r=0;r&lt;16;++r)e[s]+=u[s][r]*t[r]}return e},p=(t,e,s)=&gt;{const r=e*e,n=s*s,o=e*e*e,i=s*s*s;return t[0]+t[1]*e+t[2]*r+t[3]*o+t[4]*s+t[5]*s*e+t[6]*s*r+t[7]*s*o+t[8]*n+t[9]*n*e+t[10]*n*r+t[11]*n*o+t[12]*i+t[13]*i*e+t[14]*i*r+t[15]*i*o},y=t=&gt;{let e=[],s=[],r=[];for(let s=0;s&lt;4;++s)e[s]=[],e[s][0]=n(t[0][s],t[1][s],t[2][s],t[3][s]),e[s][1]=[],e[s][1].push(...n(...e[s][0][0])),e[s][1].push(...n(...e[s][0][1])),e[s][2]=[],e[s][2].push(...n(...e[s][1][0])),e[s][2].push(...n(...e[s][1][1])),e[s][2].push(...n(...e[s][1][2])),e[s][2].push(...n(...e[s][1][3]));for(let t=0;t&lt;8;++t){s[t]=[];for(let r=0;r&lt;4;++r)s[t][r]=[],s[t][r][0]=n(e[0][2][t][r],e[1][2][t][r],e[2][2][t][r],e[3][2][t][r]),s[t][r][1]=[],s[t][r][1].push(...n(...s[t][r][0][0])),s[t][r][1].push(...n(...s[t][r][0][1])),s[t][r][2]=[],s[t][r][2].push(...n(...s[t][r][1][0])),s[t][r][2].push(...n(...s[t][r][1][1])),s[t][r][2].push(...n(...s[t][r][1][2])),s[t][r][2].push(...n(...s[t][r][1][3]))}for(let t=0;t&lt;8;++t){r[t]=[];for(let e=0;e&lt;8;++e)r[t][e]=[],r[t][e][0]=s[t][0][2][e],r[t][e][1]=s[t][1][2][e],r[t][e][2]=s[t][2][2][e],r[t][e][3]=s[t][3][2][e]}return r};class x{constructor(t,e){this.x=t||0,this.y=e||0}toString(){return`(x=${this.x}, y=${this.y})`}clone(){return new x(this.x,this.y)}add(t){return new x(this.x+t.x,this.y+t.y)}scale(t){return void 0===t.x?new x(this.x*t,this.y*t):new x(this.x*t.x,this.y*t.y)}distSquared(t){let e=this.x-t.x,s=this.y-t.y;return e*e+s*s}transform(t){let e=this.x*t.a+this.y*t.c+t.e,s=this.x*t.b+this.y*t.d+t.f;return new x(e,s)}}class g{constructor(t,e,s,r,n,o){void 0===t?(this.a=1,this.b=0,this.c=0,this.d=1,this.e=0,this.f=0):(this.a=t,this.b=e,this.c=s,this.d=r,this.e=n,this.f=o)}toString(){return`affine: ${this.a} ${this.c} ${this.e} \n       ${this.b} ${this.d} ${this.f}`}append(t){t instanceof g||console.error(&quot;mesh.js: argument to Affine.append is not affine!&quot;);let e=this.a*t.a+this.c*t.b,s=this.b*t.a+this.d*t.b,r=this.a*t.c+this.c*t.d,n=this.b*t.c+this.d*t.d,o=this.a*t.e+this.c*t.f+this.e,i=this.b*t.e+this.d*t.f+this.f;return new g(e,s,r,n,o,i)}}class w{constructor(t,e){this.nodes=t,this.colors=e}paintCurve(t,e){if(o(this.nodes)&gt;r){const s=n(...this.nodes);let r=[[],[]],o=[[],[]];for(let t=0;t&lt;4;++t)r[0][t]=this.colors[0][t],r[1][t]=(this.colors[0][t]+this.colors[1][t])/2,o[0][t]=r[1][t],o[1][t]=this.colors[1][t];let i=new w(s[0],r),a=new w(s[1],o);i.paintCurve(t,e),a.paintCurve(t,e)}else{let s=Math.round(this.nodes[0].x);if(s&gt;=0&amp;&amp;s&lt;e){let r=4*(~~this.nodes[0].y*e+s);t[r]=Math.round(this.colors[0][0]),t[r+1]=Math.round(this.colors[0][1]),t[r+2]=Math.round(this.colors[0][2]),t[r+3]=Math.round(this.colors[0][3])}}}}class m{constructor(t,e){this.nodes=t,this.colors=e}split(){let t=[[],[],[],[]],e=[[],[],[],[]],s=[[[],[]],[[],[]]],r=[[[],[]],[[],[]]];for(let s=0;s&lt;4;++s){const r=n(this.nodes[0][s],this.nodes[1][s],this.nodes[2][s],this.nodes[3][s]);t[0][s]=r[0][0],t[1][s]=r[0][1],t[2][s]=r[0][2],t[3][s]=r[0][3],e[0][s]=r[1][0],e[1][s]=r[1][1],e[2][s]=r[1][2],e[3][s]=r[1][3]}for(let t=0;t&lt;4;++t)s[0][0][t]=this.colors[0][0][t],s[0][1][t]=this.colors[0][1][t],s[1][0][t]=(this.colors[0][0][t]+this.colors[1][0][t])/2,s[1][1][t]=(this.colors[0][1][t]+this.colors[1][1][t])/2,r[0][0][t]=s[1][0][t],r[0][1][t]=s[1][1][t],r[1][0][t]=this.colors[1][0][t],r[1][1][t]=this.colors[1][1][t];return[new m(t,s),new m(e,r)]}paint(t,e){let s,n=!1;for(let t=0;t&lt;4;++t)if((s=o([this.nodes[0][t],this.nodes[1][t],this.nodes[2][t],this.nodes[3][t]]))&gt;r){n=!0;break}if(n){let s=this.split();s[0].paint(t,e),s[1].paint(t,e)}else{new w([...this.nodes[0]],[...this.colors[0]]).paintCurve(t,e)}}}class b{constructor(t){this.readMesh(t),this.type=t.getAttribute(&quot;type&quot;)||&quot;bilinear&quot;}readMesh(t){let e=[[]],s=[[]],r=Number(t.getAttribute(&quot;x&quot;)),n=Number(t.getAttribute(&quot;y&quot;));e[0][0]=new x(r,n);let o=t.children;for(let t=0,r=o.length;t&lt;r;++t){e[3*t+1]=[],e[3*t+2]=[],e[3*t+3]=[],s[t+1]=[];let r=o[t].children;for(let n=0,o=r.length;n&lt;o;++n){let o=r[n].children;for(let r=0,i=o.length;r&lt;i;++r){let i=r;0!==t&amp;&amp;++i;let h,d=o[r].getAttribute(&quot;path&quot;),c=&quot;l&quot;;null!=d&amp;&amp;(c=(h=d.match(/\s*([lLcC])\s*(.*)/))[1]);let u=l(h[2]);switch(c){case&quot;l&quot;:0===i?(e[3*t][3*n+3]=u[0].add(e[3*t][3*n]),e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0].add(e[3*t+3][3*n+3])),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;L&quot;:0===i?(e[3*t][3*n+3]=u[0],e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0],e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0]),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;c&quot;:0===i?(e[3*t][3*n+1]=u[0].add(e[3*t][3*n]),e[3*t][3*n+2]=u[1].add(e[3*t][3*n]),e[3*t][3*n+3]=u[2].add(e[3*t][3*n])):1===i?(e[3*t+1][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+2][3*n+3]=u[1].add(e[3*t][3*n+3]),e[3*t+3][3*n+3]=u[2].add(e[3*t][3*n+3])):2===i?(e[3*t+3][3*n+2]=u[0].add(e[3*t+3][3*n+3]),e[3*t+3][3*n+1]=u[1].add(e[3*t+3][3*n+3]),0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2].add(e[3*t+3][3*n+3]))):(e[3*t+2][3*n]=u[0].add(e[3*t+3][3*n]),e[3*t+1][3*n]=u[1].add(e[3*t+3][3*n]));break;case&quot;C&quot;:0===i?(e[3*t][3*n+1]=u[0],e[3*t][3*n+2]=u[1],e[3*t][3*n+3]=u[2]):1===i?(e[3*t+1][3*n+3]=u[0],e[3*t+2][3*n+3]=u[1],e[3*t+3][3*n+3]=u[2]):2===i?(e[3*t+3][3*n+2]=u[0],e[3*t+3][3*n+1]=u[1],0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2])):(e[3*t+2][3*n]=u[0],e[3*t+1][3*n]=u[1]);break;default:console.error(&quot;mesh.js: &quot;+c+&quot; invalid path type.&quot;)}if(0===t&amp;&amp;0===n||r&gt;0){let e=window.getComputedStyle(o[r]).stopColor.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i),a=window.getComputedStyle(o[r]).stopOpacity,h=255;a&amp;&amp;(h=Math.floor(255*a)),e&amp;&amp;(0===i?(s[t][n]=[],s[t][n][0]=Math.floor(e[1]),s[t][n][1]=Math.floor(e[2]),s[t][n][2]=Math.floor(e[3]),s[t][n][3]=h):1===i?(s[t][n+1]=[],s[t][n+1][0]=Math.floor(e[1]),s[t][n+1][1]=Math.floor(e[2]),s[t][n+1][2]=Math.floor(e[3]),s[t][n+1][3]=h):2===i?(s[t+1][n+1]=[],s[t+1][n+1][0]=Math.floor(e[1]),s[t+1][n+1][1]=Math.floor(e[2]),s[t+1][n+1][2]=Math.floor(e[3]),s[t+1][n+1][3]=h):3===i&amp;&amp;(s[t+1][n]=[],s[t+1][n][0]=Math.floor(e[1]),s[t+1][n][1]=Math.floor(e[2]),s[t+1][n][2]=Math.floor(e[3]),s[t+1][n][3]=h))}}e[3*t+1][3*n+1]=new x,e[3*t+1][3*n+2]=new x,e[3*t+2][3*n+1]=new x,e[3*t+2][3*n+2]=new x,e[3*t+1][3*n+1].x=(-4*e[3*t][3*n].x+6*(e[3*t][3*n+1].x+e[3*t+1][3*n].x)+-2*(e[3*t][3*n+3].x+e[3*t+3][3*n].x)+3*(e[3*t+3][3*n+1].x+e[3*t+1][3*n+3].x)+-1*e[3*t+3][3*n+3].x)/9,e[3*t+1][3*n+2].x=(-4*e[3*t][3*n+3].x+6*(e[3*t][3*n+2].x+e[3*t+1][3*n+3].x)+-2*(e[3*t][3*n].x+e[3*t+3][3*n+3].x)+3*(e[3*t+3][3*n+2].x+e[3*t+1][3*n].x)+-1*e[3*t+3][3*n].x)/9,e[3*t+2][3*n+1].x=(-4*e[3*t+3][3*n].x+6*(e[3*t+3][3*n+1].x+e[3*t+2][3*n].x)+-2*(e[3*t+3][3*n+3].x+e[3*t][3*n].x)+3*(e[3*t][3*n+1].x+e[3*t+2][3*n+3].x)+-1*e[3*t][3*n+3].x)/9,e[3*t+2][3*n+2].x=(-4*e[3*t+3][3*n+3].x+6*(e[3*t+3][3*n+2].x+e[3*t+2][3*n+3].x)+-2*(e[3*t+3][3*n].x+e[3*t][3*n+3].x)+3*(e[3*t][3*n+2].x+e[3*t+2][3*n].x)+-1*e[3*t][3*n].x)/9,e[3*t+1][3*n+1].y=(-4*e[3*t][3*n].y+6*(e[3*t][3*n+1].y+e[3*t+1][3*n].y)+-2*(e[3*t][3*n+3].y+e[3*t+3][3*n].y)+3*(e[3*t+3][3*n+1].y+e[3*t+1][3*n+3].y)+-1*e[3*t+3][3*n+3].y)/9,e[3*t+1][3*n+2].y=(-4*e[3*t][3*n+3].y+6*(e[3*t][3*n+2].y+e[3*t+1][3*n+3].y)+-2*(e[3*t][3*n].y+e[3*t+3][3*n+3].y)+3*(e[3*t+3][3*n+2].y+e[3*t+1][3*n].y)+-1*e[3*t+3][3*n].y)/9,e[3*t+2][3*n+1].y=(-4*e[3*t+3][3*n].y+6*(e[3*t+3][3*n+1].y+e[3*t+2][3*n].y)+-2*(e[3*t+3][3*n+3].y+e[3*t][3*n].y)+3*(e[3*t][3*n+1].y+e[3*t+2][3*n+3].y)+-1*e[3*t][3*n+3].y)/9,e[3*t+2][3*n+2].y=(-4*e[3*t+3][3*n+3].y+6*(e[3*t+3][3*n+2].y+e[3*t+2][3*n+3].y)+-2*(e[3*t+3][3*n].y+e[3*t][3*n+3].y)+3*(e[3*t][3*n+2].y+e[3*t+2][3*n].y)+-1*e[3*t][3*n].y)/9}}this.nodes=e,this.colors=s}paintMesh(t,e){let s=(this.nodes.length-1)/3,r=(this.nodes[0].length-1)/3;if(&quot;bilinear&quot;===this.type||s&lt;2||r&lt;2){let n;for(let o=0;o&lt;s;++o)for(let s=0;s&lt;r;++s){let r=[];for(let t=3*o,e=3*o+4;t&lt;e;++t)r.push(this.nodes[t].slice(3*s,3*s+4));let i=[];i.push(this.colors[o].slice(s,s+2)),i.push(this.colors[o+1].slice(s,s+2)),(n=new m(r,i)).paint(t,e)}}else{let n,o,a,h,l,d,u;const x=s,g=r;s++,r++;let w=new Array(s);for(let t=0;t&lt;s;++t){w[t]=new Array(r);for(let e=0;e&lt;r;++e)w[t][e]=[],w[t][e][0]=this.nodes[3*t][3*e],w[t][e][1]=this.colors[t][e]}for(let t=0;t&lt;s;++t)for(let e=0;e&lt;r;++e)0!==t&amp;&amp;t!==x&amp;&amp;(n=i(w[t-1][e][0],w[t][e][0]),o=i(w[t+1][e][0],w[t][e][0]),w[t][e][2]=c(w[t-1][e][1],w[t][e][1],w[t+1][e][1],n,o)),0!==e&amp;&amp;e!==g&amp;&amp;(n=i(w[t][e-1][0],w[t][e][0]),o=i(w[t][e+1][0],w[t][e][0]),w[t][e][3]=c(w[t][e-1][1],w[t][e][1],w[t][e+1][1],n,o));for(let t=0;t&lt;r;++t){w[0][t][2]=[],w[x][t][2]=[];for(let e=0;e&lt;4;++e)n=i(w[1][t][0],w[0][t][0]),o=i(w[x][t][0],w[x-1][t][0]),w[0][t][2][e]=n&gt;0?2*(w[1][t][1][e]-w[0][t][1][e])/n-w[1][t][2][e]:0,w[x][t][2][e]=o&gt;0?2*(w[x][t][1][e]-w[x-1][t][1][e])/o-w[x-1][t][2][e]:0}for(let t=0;t&lt;s;++t){w[t][0][3]=[],w[t][g][3]=[];for(let e=0;e&lt;4;++e)n=i(w[t][1][0],w[t][0][0]),o=i(w[t][g][0],w[t][g-1][0]),w[t][0][3][e]=n&gt;0?2*(w[t][1][1][e]-w[t][0][1][e])/n-w[t][1][3][e]:0,w[t][g][3][e]=o&gt;0?2*(w[t][g][1][e]-w[t][g-1][1][e])/o-w[t][g-1][3][e]:0}for(let s=0;s&lt;x;++s)for(let r=0;r&lt;g;++r){let n=i(w[s][r][0],w[s+1][r][0]),o=i(w[s][r+1][0],w[s+1][r+1][0]),c=i(w[s][r][0],w[s][r+1][0]),x=i(w[s+1][r][0],w[s+1][r+1][0]),g=[[],[],[],[]];for(let t=0;t&lt;4;++t){(d=[])[0]=w[s][r][1][t],d[1]=w[s+1][r][1][t],d[2]=w[s][r+1][1][t],d[3]=w[s+1][r+1][1][t],d[4]=w[s][r][2][t]*n,d[5]=w[s+1][r][2][t]*n,d[6]=w[s][r+1][2][t]*o,d[7]=w[s+1][r+1][2][t]*o,d[8]=w[s][r][3][t]*c,d[9]=w[s+1][r][3][t]*x,d[10]=w[s][r+1][3][t]*c,d[11]=w[s+1][r+1][3][t]*x,d[12]=0,d[13]=0,d[14]=0,d[15]=0,u=f(d);for(let e=0;e&lt;9;++e){g[t][e]=[];for(let s=0;s&lt;9;++s)g[t][e][s]=p(u,e/8,s/8),g[t][e][s]&gt;255?g[t][e][s]=255:g[t][e][s]&lt;0&amp;&amp;(g[t][e][s]=0)}}h=[];for(let t=3*s,e=3*s+4;t&lt;e;++t)h.push(this.nodes[t].slice(3*r,3*r+4));l=y(h);for(let s=0;s&lt;8;++s)for(let r=0;r&lt;8;++r)(a=new m(l[s][r],[[[g[0][s][r],g[1][s][r],g[2][s][r],g[3][s][r]],[g[0][s][r+1],g[1][s][r+1],g[2][s][r+1],g[3][s][r+1]]],[[g[0][s+1][r],g[1][s+1][r],g[2][s+1][r],g[3][s+1][r]],[g[0][s+1][r+1],g[1][s+1][r+1],g[2][s+1][r+1],g[3][s+1][r+1]]]])).paint(t,e)}}}transform(t){if(t instanceof x)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].add(t);else if(t instanceof g)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].transform(t)}scale(t){for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].scale(t)}}document.querySelectorAll(&quot;rect,circle,ellipse,path,text&quot;).forEach((r,n)=&gt;{let o=r.getAttribute(&quot;id&quot;);o||(o=&quot;patchjs_shape&quot;+n,r.setAttribute(&quot;id&quot;,o));const i=r.style.fill.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/),a=r.style.stroke.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/);if(i&amp;&amp;i[1]){const a=document.getElementById(i[1]);if(a&amp;&amp;&quot;meshgradient&quot;===a.nodeName){const i=r.getBBox();let l=document.createElementNS(s,&quot;canvas&quot;);d(l,{width:i.width,height:i.height});const c=l.getContext(&quot;2d&quot;);let u=c.createImageData(i.width,i.height);const f=new b(a);&quot;objectBoundingBox&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.scale(new x(i.width,i.height));const p=a.getAttribute(&quot;gradientTransform&quot;);null!=p&amp;&amp;f.transform(h(p)),&quot;userSpaceOnUse&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.transform(new x(-i.x,-i.y)),f.paintMesh(u.data,l.width),c.putImageData(u,0,0);const y=document.createElementNS(t,&quot;image&quot;);d(y,{width:i.width,height:i.height,x:i.x,y:i.y});let g=l.toDataURL();y.setAttributeNS(e,&quot;xlink:href&quot;,g),r.parentNode.insertBefore(y,r),r.style.fill=&quot;none&quot;;const w=document.createElementNS(t,&quot;use&quot;);w.setAttributeNS(e,&quot;xlink:href&quot;,&quot;#&quot;+o);const m=&quot;patchjs_clip&quot;+n,M=document.createElementNS(t,&quot;clipPath&quot;);M.setAttribute(&quot;id&quot;,m),M.appendChild(w),r.parentElement.insertBefore(M,r),y.setAttribute(&quot;clip-path&quot;,&quot;url(#&quot;+m+&quot;)&quot;),u=null,l=null,g=null}}if(a&amp;&amp;a[1]){const o=document.getElementById(a[1]);if(o&amp;&amp;&quot;meshgradient&quot;===o.nodeName){const i=parseFloat(r.style.strokeWidth.slice(0,-2))*(parseFloat(r.style.strokeMiterlimit)||parseFloat(r.getAttribute(&quot;stroke-miterlimit&quot;))||1),a=r.getBBox(),l=Math.trunc(a.width+i),c=Math.trunc(a.height+i),u=Math.trunc(a.x-i/2),f=Math.trunc(a.y-i/2);let p=document.createElementNS(s,&quot;canvas&quot;);d(p,{width:l,height:c});const y=p.getContext(&quot;2d&quot;);let g=y.createImageData(l,c);const w=new b(o);&quot;objectBoundingBox&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.scale(new x(l,c));const m=o.getAttribute(&quot;gradientTransform&quot;);null!=m&amp;&amp;w.transform(h(m)),&quot;userSpaceOnUse&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.transform(new x(-u,-f)),w.paintMesh(g.data,p.width),y.putImageData(g,0,0);const M=document.createElementNS(t,&quot;image&quot;);d(M,{width:l,height:c,x:0,y:0});let S=p.toDataURL();M.setAttributeNS(e,&quot;xlink:href&quot;,S);const k=&quot;pattern_clip&quot;+n,A=document.createElementNS(t,&quot;pattern&quot;);d(A,{id:k,patternUnits:&quot;userSpaceOnUse&quot;,width:l,height:c,x:u,y:f}),A.appendChild(M),o.parentNode.appendChild(A),r.style.stroke=&quot;url(#&quot;+k+&quot;)&quot;,g=null,p=null,S=null}}})}();
+</script>
+  <g
+     id="g1365"
+     inkscape:label="Spider and Union">
+    <path
+       id="path1233"
+       style="fill:#ff00ff;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       inkscape:label="Top Leg"
+       d="m 37.800764,31.80369 -3.111328,1.669922 -0.556641,1.498046 h -4.382812 l -0.548828,-1.476562 -3.111329,-1.669922 -2.763671,1.238281 2.484375,1.908203 h -7.992188 c -0.728769,0 -1.316406,0.587638 -1.316406,1.316407 v 2.912109 c 0,0.388257 0.169734,0.732281 0.435547,0.972656 L 6.5566227,33.305643 C 5.4978045,32.605352 -0.12875208,51.356232 0.27537266,51.32908 c 0.2688364,-0.04026 0.4576388,-0.05309 0.5957032,-0.04687 -0.3562396,1.176083 -0.5569491,1.946589 -0.4824219,1.947266 C 2.203975,53.086983 0.14835662,54.01721 1.7597477,54.782205 2.0884621,54.938286 6.2360041,38.363642 7.9257633,39.74119 l 2.4160167,1.96875 2.179687,1.677734 5.183594,4.294922 c -0.08426,0.07052 -0.132254,0.149915 -0.132813,0.232422 l -0.0059,0.748047 -10.4785163,-6.28711 C 6.3706969,41.945669 4.2079715,54.83369 3.9394352,57.645486 c -0.7486534,2.566919 -1.2857719,4.609533 -1.1875,4.603516 1.4001695,-0.229154 -0.1953005,0.724792 1.0371093,1.326172 0.08972,0.04378 0.5873579,-1.89238 1.2382813,-4.310547 0.05195,0.02101 0.1039215,0.0429 0.1679687,0.06055 0.061016,0.01681 0.1848168,-0.787693 0.34375,-1.917969 1.1133824,-4.015479 2.4646224,-8.389868 3.1777341,-7.751953 l 1.8378914,1.644531 1.658203,1.392579 5.513672,5.019531 c 0.01272,0.722565 0.596556,1.300781 1.322266,1.300781 h 11.701172 c 0.01237,0.0024 0.02449,0.0059 0.03711,0.0059 h 2.5625 c 0.01262,0 0.02473,-0.0035 0.03711,-0.0059 h 11.925781 c 0.733728,0 1.324219,-0.59049 1.324219,-1.324219 v -0.175781 l 5.294921,-4.820312 1.658203,-1.392579 1.837891,-1.644531 c 0.713112,-0.637915 2.064352,3.736474 3.177735,7.751953 0.158933,1.130276 0.282734,1.934781 0.34375,1.917969 0.06405,-0.01765 0.116019,-0.03954 0.167968,-0.06055 0.650924,2.418167 1.148562,4.354332 1.238282,4.310547 1.232409,-0.60138 -0.363061,-1.555326 1.037109,-1.326172 0.09827,0.006 -0.438847,-2.036597 -1.1875,-4.603516 C 59.936526,54.83369 57.771847,41.945669 57.054671,42.375955 l -10.373047,6.22461 0.0039,-0.544922 c 3.24e-4,-0.04795 -0.01956,-0.09598 -0.04883,-0.140625 v -0.396485 l 4.986328,-4.130859 2.179687,-1.677734 2.416016,-1.96875 c 1.689759,-1.377548 5.837301,15.197096 6.166015,15.041015 1.611392,-0.764995 -0.444227,-1.695222 1.371094,-1.552734 0.07452,-6.77e-4 -0.126215,-0.77128 -0.482422,-1.947266 0.137934,-0.006 0.328158,0.0068 0.595703,0.04687 0.404126,0.02715 -5.222431,-18.723728 -6.28125,-18.023437 l -10.173828,6.728515 c 0.18813,-0.227439 0.306641,-0.514423 0.306641,-0.833984 V 36.28806 c 0,-0.728769 -0.587638,-1.316407 -1.316406,-1.316407 h -8.351563 l 2.511719,-1.929687 z m 0.240234,1.296875 -0.365234,0.96875 -1.179688,0.902343 h -0.550781 l 0.771485,-1.046875 z m -12.191406,0.02148 1.324219,0.824219 0.755859,1.02539 h -0.5625 L 26.214826,34.090799 Z M 7.8730289,36.409158 c 0.065022,0.0046 0.1278824,0.0275 0.1894532,0.06836 l 2.8164069,1.86914 2.535156,1.580078 4.310547,2.910157 v 2.734375 L 7.1367008,36.965799 C 7.3971914,36.601898 7.6458166,36.39294 7.8730289,36.409158 Z m 48.3984381,0 c 0.227212,-0.01622 0.475838,0.19274 0.736328,0.556641 l -10.371093,8.429687 v -2.705078 l 4.09375,-2.763672 2.535156,-1.580078 2.816406,-1.86914 c 0.06157,-0.04086 0.124431,-0.06372 0.189453,-0.06836 z M 17.27342,40.395486 c 0.138579,0.0629 0.291552,0.09801 0.451172,0.109376 v 0.189453 z m 29.50586,0.06055 -0.142578,0.09375 v -0.05664 c 0.0491,-0.0087 0.09555,-0.0232 0.142578,-0.03711 z m -38.5253917,4.40625 c 0.0467,-0.0026 0.093736,0.0089 0.1406253,0.03711 l 2.1445314,1.291015 1.923828,1.078125 5.09375,3.128907 -0.0039,0.498046 c -6.35e-4,0.09391 0.06549,0.180949 0.171875,0.259766 v 4.550781 c -0.04196,-0.01652 -0.08221,-0.03955 -0.121094,-0.07422 L 7.8300602,46.916971 c -0.14952,-0.133309 -0.4925825,0.537318 -0.9238281,1.626953 0.4162009,-2.083216 0.8752983,-3.654881 1.3476562,-3.681641 z m 47.6367197,0 c 0.473244,0.02681 0.932796,1.604261 1.349609,3.69336 -0.433416,-1.09655 -0.77574,-1.772446 -0.925781,-1.638672 l -9.677734,8.628906 v -4.402344 c 0.01789,-0.03477 0.02709,-0.07062 0.02734,-0.107421 l 0.0059,-0.6875 5.011718,-3.080079 1.923829,-1.078125 2.144531,-1.291015 c 0.04689,-0.02824 0.09392,-0.03976 0.140625,-0.03711 z" />
+    <g
+       inkscape:label="Spider"
+       inkscape:groupmode="layer"
+       id="g1363"
+       transform="translate(0.05091352,-0.24122546)">
+      <g
+         id="g1243"
+         inkscape:label="Right Legs"
+         transform="matrix(1.6719976,0,0,1.6719976,-18.136943,6.7809985)"
+         style="fill:#0044aa">
+        <path
+           id="path1235"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0528781"
+           inkscape:label="Top Leg"
+           d="m 48.04774,27.69366 c -0.22583,0.08159 -2.510491,-10.572503 -3.688881,-9.790576 l -1.684291,1.117621 -1.516668,0.945558 -5.256139,3.548566 c -0.198786,0.134203 -1.299702,-0.17201 -1.246821,-0.407105 l 0.392768,-1.746206 c 0.05284,-0.235107 0.710691,0.928319 1.254321,0.568765 l 8.957666,-5.924518 c 0.633266,-0.418835 3.998592,10.796163 3.75689,10.779924 -1.216506,-0.182193 0.13817,0.508022 -0.96885,0.907971 z"
+           sodipodi:nodetypes="csccssssscc" />
+        <path
+           id="path1237"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0484945"
+           inkscape:label="Third Leg"
+           d="m 48.128608,28.85042 c -0.1966,0.09335 -2.677725,-9.81906 -3.688349,-8.995166 l -1.444498,1.177607 -1.303342,1.002877 -4.505213,3.732467 c -0.170384,0.141161 -1.078409,-0.04603 -1.063636,-0.274952 l 0.112331,-1.740678 c 0.01479,-0.228911 0.771764,0.867364 1.238049,0.488385 l 7.683186,-6.244605 c 0.543165,-0.441461 4.005884,9.924013 3.791019,9.925965 -1.085721,-0.08522 0.144206,0.470562 -0.819547,0.928096 z"
+           sodipodi:nodetypes="csccsssssccc" />
+        <path
+           id="path1239"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0412511"
+           inkscape:label="Second Leg"
+           d="m 46.073915,31.567813 c -0.166983,0.04601 -1.01639,-9.168057 -1.913786,-8.627602 l -1.282656,0.772474 -1.150556,0.644307 -4.007222,2.461948 c -0.151551,0.09311 -0.914089,-0.276153 -0.859184,-0.469058 l 0.407805,-1.432793 c 0.05486,-0.192916 0.438794,0.854458 0.852705,0.60612 l 6.82022,-4.09197 c 0.48216,-0.289283 2.061032,9.506765 1.889889,9.468692 -0.854029,-0.276347 0.06133,0.442305 -0.757216,0.667873 z"
+           sodipodi:nodetypes="csccssssscc" />
+        <path
+           id="path1241"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.040423"
+           inkscape:label="Bottom Leg"
+           d="m 46.914635,34.109583 c -0.150365,0.07338 -2.178119,-9.012484 -2.947016,-8.324666 l -1.098998,0.983107 -0.992309,0.833187 -3.426938,3.120052 c -0.129604,0.118004 -0.831329,-0.101269 -0.822637,-0.307107 l 0.06611,-1.565188 c 0.0087,-0.205834 0.604737,0.825749 0.959506,0.509444 l 5.845718,-5.211934 c 0.413266,-0.368459 3.202548,9.18077 3.037043,9.170636 -0.837424,-0.137054 0.116613,0.432787 -0.620476,0.792465 z"
+           sodipodi:nodetypes="csccsssssccc" />
+      </g>
+      <g
+         id="g1253"
+         inkscape:label="Left Legs"
+         transform="matrix(-1.6719976,0,0,1.6719976,82.179604,6.7809985)"
+         style="fill:#0044aa">
+        <path
+           id="path1245"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0528781"
+           inkscape:label="Top Leg"
+           d="m 48.04774,27.69366 c -0.22583,0.08159 -2.510491,-10.572503 -3.688881,-9.790576 l -1.684291,1.117621 -1.516668,0.945558 -5.256139,3.548566 c -0.198786,0.134203 -1.299702,-0.17201 -1.246821,-0.407105 l 0.392768,-1.746206 c 0.05284,-0.235107 0.710691,0.928319 1.254321,0.568765 l 8.957666,-5.924518 c 0.633266,-0.418835 3.998592,10.796163 3.75689,10.779924 -1.216506,-0.182193 0.13817,0.508022 -0.96885,0.907971 z"
+           sodipodi:nodetypes="csccssssscc" />
+        <path
+           id="path1247"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0484945"
+           inkscape:label="Third Leg"
+           d="m 48.128608,28.85042 c -0.1966,0.09335 -2.677725,-9.81906 -3.688349,-8.995166 l -1.444498,1.177607 -1.303342,1.002877 -4.505213,3.732467 c -0.170384,0.141161 -1.078409,-0.04603 -1.063636,-0.274952 l 0.112331,-1.740678 c 0.01479,-0.228911 0.771764,0.867364 1.238049,0.488385 l 7.683186,-6.244605 c 0.543165,-0.441461 4.005884,9.924013 3.791019,9.925965 -1.085721,-0.08522 0.144206,0.470562 -0.819547,0.928096 z"
+           sodipodi:nodetypes="csccsssssccc" />
+        <path
+           id="path1249"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.0412511"
+           inkscape:label="Second Leg"
+           d="m 46.073915,31.567813 c -0.166983,0.04601 -1.01639,-9.168057 -1.913786,-8.627602 l -1.282656,0.772474 -1.150556,0.644307 -4.007222,2.461948 c -0.151551,0.09311 -0.914089,-0.276153 -0.859184,-0.469058 l 0.407805,-1.432793 c 0.05486,-0.192916 0.438794,0.854458 0.852705,0.60612 l 6.82022,-4.09197 c 0.48216,-0.289283 2.061032,9.506765 1.889889,9.468692 -0.854029,-0.276347 0.06133,0.442305 -0.757216,0.667873 z"
+           sodipodi:nodetypes="csccssssscc" />
+        <path
+           id="path1251"
+           style="fill:#0044aa;stroke:#000000;stroke-width:0.040423"
+           inkscape:label="Bottom Leg"
+           d="m 46.914635,34.109583 c -0.150365,0.07338 -2.178119,-9.012484 -2.947016,-8.324666 l -1.098998,0.983107 -0.992309,0.833187 -3.426938,3.120052 c -0.129604,0.118004 -0.831329,-0.101269 -0.822637,-0.307107 l 0.06611,-1.565188 c 0.0087,-0.205834 0.604737,0.825749 0.959506,0.509444 l 5.845718,-5.211934 c 0.413266,-0.368459 3.202548,9.18077 3.037043,9.170636 -0.837424,-0.137054 0.116613,0.432787 -0.620476,0.792465 z"
+           sodipodi:nodetypes="csccsssssccc" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g1263"
+         inkscape:label="Body"
+         transform="matrix(0.88276044,0,0,0.94786115,1.7593848,1.6788801)">
+        <rect
+           style="fill:#ff7402;fill-opacity:1;stroke:#000000;stroke-width:0.0710139"
+           id="rect1255"
+           width="32.753304"
+           height="23.676085"
+           x="18.027651"
+           y="37.062286"
+           ry="1.3972727"
+           inkscape:label="Torso" />
+        <g
+           inkscape:groupmode="layer"
+           id="g1261"
+           inkscape:label="Ribbons">
+          <rect
+             style="fill:#2a7fff;stroke:#000000;stroke-width:0.0586711"
+             id="rect1257"
+             width="4.0319657"
+             height="25.192196"
+             x="32.260513"
+             y="35.551502"
+             ry="1.364055"
+             rx="0.56449127"
+             inkscape:label="Vertical" />
+          <rect
+             style="fill:#2a7fff;stroke:#000000;stroke-width:0.0698718"
+             id="rect1259"
+             width="4.3682227"
+             height="32.978699"
+             x="48.337933"
+             y="-51.190845"
+             ry="1.7856628"
+             rx="0.61156857"
+             transform="matrix(-0.00726385,0.99997362,-0.99998999,-0.00447364,0,0)"
+             inkscape:label="Horizontal" />
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g1341"
+         inkscape:label="Eyes"
+         transform="matrix(0.88276044,0,0,0.94786115,1.7593848,1.6788801)">
+        <g
+           id="g1301"
+           inkscape:label="Left Eyes"
+           transform="matrix(-0.84361677,0,0,1.0310591,49.22111,24.467655)">
+          <g
+             inkscape:groupmode="layer"
+             id="g1269"
+             inkscape:label="Bottom Big Eye Left"
+             transform="matrix(-1.6153705,0,0,1.4356384,63.108039,-10.934493)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1265"
+               cx="32.286877"
+               cy="4.5359368"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1267"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1275"
+             inkscape:label="Top Big Eye Left"
+             transform="matrix(-1.6153705,0,0,1.4356384,62.169687,-13.052006)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1271"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1273"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1281"
+             inkscape:label="Top Left Small Eye Left"
+             transform="matrix(-1,0,0,1,49.297486,-5.4372721)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1277"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1279"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1287"
+             inkscape:label="Middle Small Eye Left"
+             transform="matrix(-1,0,0,1,49.43905,-3.3969907)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1283"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1285"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1293"
+             inkscape:label="Top Small Eye Left"
+             transform="matrix(-1,0,0,1,46.566186,-5.5855663)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1289"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1291"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1299"
+             inkscape:label="Bottom Small Eye Left"
+             transform="matrix(-1,0,0,1,50.353949,-1.4506679)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1295"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1297"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+        </g>
+        <g
+           id="g1339"
+           inkscape:label="Right Eyes"
+           transform="matrix(0.84361677,0,0,1.0310591,19.387503,24.467655)">
+          <g
+             inkscape:groupmode="layer"
+             id="g1307"
+             inkscape:label="Bottom Big Eye"
+             transform="matrix(-1.6153705,0,0,1.4356384,63.108039,-10.934493)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1303"
+               cx="32.286877"
+               cy="4.5359368"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1305"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1313"
+             inkscape:label="Top Big Eye"
+             transform="matrix(-1.6153705,0,0,1.4356384,62.169687,-13.052006)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1309"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1311"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1319"
+             inkscape:label="Top Left Small Eye"
+             transform="matrix(-1,0,0,1,49.297486,-5.4372721)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1315"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1317"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1325"
+             inkscape:label="Middle Small Eye"
+             transform="matrix(-1,0,0,1,49.43905,-3.3969907)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1321"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1323"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1331"
+             inkscape:label="Top Small Eye"
+             transform="matrix(-1,0,0,1,46.566186,-5.5855663)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1327"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1329"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g1337"
+             inkscape:label="Bottom Small Eye"
+             transform="matrix(-1,0,0,1,50.353949,-1.4506679)">
+            <ellipse
+               style="fill:#2b0022;stroke:#000000;stroke-width:0.0510737"
+               id="ellipse1333"
+               cx="32.291885"
+               cy="4.5487871"
+               rx="0.97923249"
+               ry="0.51512367"
+               transform="matrix(0.82013499,0.57217008,-0.31979161,0.9474879,0,0)"
+               inkscape:label="Eye Ball" />
+            <ellipse
+               style="fill:#ff0000;stroke:#000000;stroke-width:0.05"
+               id="ellipse1335"
+               cx="25.35169"
+               cy="23.098442"
+               rx="0.2697551"
+               ry="0.21686193"
+               inkscape:label="Pupil" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g1349"
+         inkscape:label="Whole Mouth"
+         transform="matrix(1.164083,0,0,1.4034373,-0.46545332,14.201837)">
+        <path
+           id="path1343"
+           style="fill:#2b0000;stroke:#000000;stroke-width:0.05"
+           d="m 34.301436,27.825562 c 0.602721,1.738909 -3.183664,2.610996 -6.306851,2.618717 -3.123189,0.0077 -6.555971,-1.325256 -6.558793,-2.467228 -0.0021,-0.842765 3.369847,0.08143 6.493034,0.07371 3.123186,-0.0077 6.09661,-1.021492 6.37261,-0.225201 z"
+           sodipodi:nodetypes="sssss"
+           inkscape:label="Mouth opening" />
+        <path
+           id="path1345"
+           style="fill:#f9f9f9;stroke:#000000;stroke-width:0.0540693"
+           inkscape:transform-center-x="-0.013322516"
+           inkscape:transform-center-y="0.55566261"
+           d="m 24.2008,28.355217 -0.527841,-0.573961 -0.735271,0.393032 -0.591121,-0.560447 0.766873,0.02248 0.957333,0.116388 2.172201,0.237085 2.631112,0.02131 0.726877,0.993863 0.495398,-0.996387 0.462559,0.403236 0.250253,-0.552668 0.372205,0.467709 0.290349,-0.580192 0.307414,0.444808 0.290243,-0.503685 0.495138,0.384868 0.259639,-0.486503 0.337595,0.500948 0.293524,-0.557239 -0.316132,0.0053 -0.60286,0.05507 -0.816703,0.08752 -0.504667,0.09145 -0.406671,0.07685 -0.675992,0.058 -1.690782,0.14781 -0.628563,1.009883 -0.467185,-1.062915 c -0.223604,0.144612 -0.452697,0.366009 -0.706233,0.501626 l -0.37006,-0.47374 -0.612115,0.425132 -0.676543,-0.596178 z"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc"
+           inkscape:label="Top Teeth" />
+        <path
+           id="path1347"
+           style="fill:#f9f9f9;stroke:#000000;stroke-width:0.054105"
+           inkscape:transform-center-x="-0.011809734"
+           inkscape:transform-center-y="-0.58105437"
+           d="m 23.916377,29.738463 0.03192,-0.722122 -0.666374,0.528801 -0.619736,-0.250235 0.613033,-0.507117 0.03025,0.789806 1.042397,0.370225 1.528522,0.342583 1.656846,0.154481 c 0.324962,0.12758 1.575931,-0.0043 1.951111,-0.05461 l 0.815097,-0.09874 0.538895,-0.715599 0.504534,0.557431 0.174404,-0.629437 0.318442,0.495489 0.720024,-0.206609 0.815286,-0.341024 -0.452781,-0.327659 -0.05589,0.569216 -0.270227,-0.428205 -0.300087,0.610642 -0.188522,-0.499211 -0.276745,0.628168 -0.545901,0.142873 -0.972183,0.142545 -0.233644,-0.642959 -0.58755,0.727279 -0.211794,-1.029683 c 0,0 -0.105942,0.202664 -0.201175,0.442815 -0.116564,0.293941 -0.235716,0.636588 -0.35552,0.64027 -0.163524,0.005 -0.06192,-1.011609 -0.219987,-1.003731 l -0.950681,1.013961 -0.356923,-1.033118 -0.373468,0.991599 -0.14593,-0.537977 c -0.208985,-0.155524 -0.549749,0.558967 -0.786822,0.412915 l -0.179475,-0.595744 -0.931652,0.346971 -0.04406,-0.677912 z"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccsscccccccccc"
+           inkscape:label="Bottom Teeth" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g1353"
+         inkscape:label="Top"
+         transform="matrix(0.88276044,0,0,0.94786115,1.7593848,1.6788801)"
+         style="fill:#447821">
+        <rect
+           style="fill:#aa4400;stroke:#000000;stroke-width:0.0700507"
+           id="rect1351"
+           width="35.36438"
+           height="5.8479052"
+           x="16.643515"
+           y="35.374985"
+           ry="1.387828"
+           inkscape:label="Lid" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g1361"
+         inkscape:label="Bow"
+         transform="matrix(0.88276044,0,0,0.94786115,1.7593848,1.6788801)">
+        <path
+           id="path1355"
+           style="fill:#0066ff;stroke:#000000;stroke-width:0.0740797"
+           d="m 35.458157,39.379219 8.442718,-6.040848 -3.130021,-1.306099 -3.524854,1.761317 -1.673956,4.192388 -0.107359,1.437532 4.077164,-5.153237 1.500865,-0.868878 -0.413965,1.021672 -4.918321,3.50153 z"
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:label="Right" />
+        <path
+           id="path1357"
+           style="fill:#0066ff;stroke:#000000;stroke-width:0.0740797"
+           d="m 32.816615,39.401363 -8.442715,-6.040846 3.130018,-1.3061 3.524859,1.761314 1.673954,4.192389 0.107358,1.437534 -4.077162,-5.153239 -1.500866,-0.868877 0.413966,1.021673 4.918323,3.501529 z"
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:label="Left" />
+        <rect
+           style="fill:#0066ff;stroke:#000000;stroke-width:0.0710139"
+           id="rect1359"
+           width="3.0784974"
+           height="2.2809212"
+           x="32.60088"
+           y="37.560848"
+           rx="0.8726117"
+           ry="0.60448861"
+           inkscape:label="Middle" />
+      </g>
+    </g>
+    <path
+       id="path1542"
+       style="fill:#2b0000;stroke-width:0.124326"
+       d="m 19.192826,39.790539 c -0.02872,0.0357 -0.993731,0.333025 -1.659499,0.142422 -0.665758,-0.190575 -0.314558,-1.088199 -0.285931,-1.123956 0.02872,-0.0357 -0.276069,0.803921 0.389691,0.994496 0.665761,0.190576 1.584369,-0.04872 1.555738,-0.01296 z"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       id="path1544"
+       style="fill:#2b0000;stroke-width:0.124326"
+       d="m 44.836802,35.722307 c 0.02872,-0.0357 0.993731,-0.333025 1.659499,-0.142422 0.665758,0.190575 0.314558,1.088199 0.285931,1.123956 -0.02872,0.0357 0.276069,-0.803921 -0.389691,-0.994496 -0.665761,-0.190576 -1.584369,0.04872 -1.555738,0.01296 z"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       id="path1546"
+       style="fill:#2b0000;stroke-width:0.109036"
+       d="m 40.044192,54.980123 c 0,0 0.296144,0.033 0.310529,-0.224898 0.02808,-0.503363 -0.109986,-1.555062 -0.235334,-2.173276 -0.18957,-0.934939 -0.62634,-0.392826 -0.641825,-0.350472 -0.01545,0.04248 0.396221,-0.430959 0.585775,0.503985 0.124956,0.616308 0.271901,1.550466 0.232377,1.99908 -0.02044,0.231938 -0.387758,0.20784 -0.387758,0.20784 z"
+       sodipodi:nodetypes="csscsscc" />
+    <path
+       id="path1548"
+       style="fill:#2b0000;stroke-width:0.109036"
+       d="m 24.177284,54.76855 c 0,0 -0.296144,0.033 -0.310529,-0.224898 -0.02808,-0.503363 0.109986,-1.555062 0.235334,-2.173276 0.18957,-0.934939 0.62634,-0.392826 0.641825,-0.350472 0.01545,0.04248 -0.396221,-0.430959 -0.585775,0.503985 -0.124956,0.616308 -0.271901,1.550466 -0.232377,1.99908 0.02044,0.231938 0.387758,0.20784 0.387758,0.20784 z"
+       sodipodi:nodetypes="csscsscc" />
+    <path
+       id="path1550"
+       style="fill:#2b0000;stroke-width:0.124326"
+       d="m 19.192826,39.790539 c -0.02872,0.0357 -0.993731,0.333025 -1.659499,0.142422 -0.665758,-0.190575 -0.314558,-1.088199 -0.285931,-1.123956 0.02872,-0.0357 -0.276069,0.803921 0.389691,0.994496 0.665761,0.190576 1.584369,-0.04872 1.555738,-0.01296 z"
+       sodipodi:nodetypes="cscsc" />
+  </g>
+</svg>

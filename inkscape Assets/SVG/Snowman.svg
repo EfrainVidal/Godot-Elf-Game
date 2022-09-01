@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64.000003"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Snowman.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="12.593751"
+     inkscape:cx="104.17865"
+     inkscape:cy="32.238211"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1803">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       spacingx="8.0000002"
+       spacingy="8.0000002"
+       empspacing="8" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="64"
+       height="64"
+       id="page1353"
+       inkscape:export-filename="Snowman Idle 1.png"
+       inkscape:export-xdpi="291"
+       inkscape:export-ydpi="291" />
+    <inkscape:page
+       x="72.169182"
+       y="0.2393671"
+       width="64"
+       height="64"
+       id="page1355"
+       inkscape:export-filename="Snowman Idle 2.png"
+       inkscape:export-xdpi="291"
+       inkscape:export-ydpi="291" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Snowman"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.00262403,-0.01424034)"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Bottom">
+      <circle
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.366677"
+         id="circle352"
+         cx="30.973"
+         cy="47.997082"
+         inkscape:transform-center-x="-1.6942085"
+         inkscape:transform-center-y="-3.2824343"
+         inkscape:label="Bottom snow"
+         r="15.786938" />
+      <g
+         id="g1012"
+         inkscape:label="Buttons">
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.231752"
+           id="ellipse469"
+           cx="29.13389"
+           cy="42.027004"
+           rx="1.3481669"
+           ry="1.3481666" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.231752"
+           id="ellipse471"
+           cx="29.13389"
+           cy="47.379505"
+           rx="1.3481669"
+           ry="1.3481666" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.231752"
+           id="ellipse473"
+           cx="29.13389"
+           cy="53.029373"
+           rx="1.3481669"
+           ry="1.3481666" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Torso">
+      <g
+         id="g832"
+         inkscape:label="Left Arm"
+         style="fill:#803300"
+         transform="matrix(1.1712343,0,0,1.1712343,-6.665112,-6.3275482)">
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.2"
+           id="rect814"
+           width="8.7967405"
+           height="1.0771519"
+           x="27.558928"
+           y="8.4600601"
+           rx="0.8072052"
+           ry="0.42523238"
+           transform="rotate(38.477884)" />
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+           id="rect820"
+           width="3.5093927"
+           height="0.59124005"
+           x="21.165031"
+           y="7.3703613"
+           rx="0.32202837"
+           ry="0.23340663"
+           transform="matrix(0.80946447,0.58716887,-0.69497604,0.7190329,0,0)" />
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+           id="rect822"
+           width="3.5093927"
+           height="0.59124005"
+           x="15.498157"
+           y="-13.856754"
+           rx="0.32202837"
+           ry="0.23340663"
+           transform="matrix(0.07252961,0.99736626,-0.9976728,-0.06818344,0,0)" />
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+           id="rect824"
+           width="3.5093927"
+           height="0.59124005"
+           x="-0.59231448"
+           y="-24.700563"
+           rx="0.32202837"
+           ry="0.23340663"
+           transform="matrix(-0.61562764,0.78803719,-0.69382314,-0.72014544,0,0)" />
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.158614"
+           id="rect818"
+           width="5.5150113"
+           height="1.0806192"
+           x="21.672062"
+           y="-8.1549301"
+           rx="0.50606763"
+           ry="0.42660117"
+           transform="matrix(0.32874905,0.94441731,-0.99250964,0.12216632,0,0)" />
+      </g>
+      <circle
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.275008"
+         id="ellipse350"
+         cx="31.035076"
+         cy="28.039335"
+         inkscape:transform-center-x="-1.2706558"
+         inkscape:transform-center-y="-2.4618267"
+         inkscape:label="Torso"
+         r="11.840202" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.231752"
+         id="path465"
+         cx="29.13389"
+         cy="27.753658"
+         rx="1.3481669"
+         ry="1.3481666"
+         inkscape:label="Button" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.231752"
+         id="ellipse467"
+         cx="29.13389"
+         cy="33.899124"
+         rx="1.3481669"
+         ry="1.3481666"
+         inkscape:label="Button" />
+      <g
+         id="g864"
+         inkscape:label="Right Arm"
+         transform="matrix(-1.0373682,-0.7103575,0.69947081,-1.0214698,42.156622,74.528045)"
+         style="fill:#803300">
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.2"
+           id="rect854"
+           width="8.7967405"
+           height="1.0771519"
+           x="27.558928"
+           y="8.4600601"
+           rx="0.8072052"
+           ry="0.42523238"
+           transform="rotate(38.477884)" />
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+           id="rect856"
+           width="3.5093927"
+           height="0.59124005"
+           x="21.165031"
+           y="7.3703613"
+           rx="0.32202837"
+           ry="0.23340663"
+           transform="matrix(0.80946447,0.58716887,-0.69497604,0.7190329,0,0)" />
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+           id="rect858"
+           width="3.5093927"
+           height="0.59124005"
+           x="15.498157"
+           y="-13.856754"
+           rx="0.32202837"
+           ry="0.23340663"
+           transform="matrix(0.07252961,0.99736626,-0.9976728,-0.06818344,0,0)" />
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+           id="rect860"
+           width="3.5093927"
+           height="0.59124005"
+           x="-0.59231448"
+           y="-24.700563"
+           rx="0.32202837"
+           ry="0.23340663"
+           transform="matrix(-0.61562764,0.78803719,-0.69382314,-0.72014544,0,0)" />
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.158614"
+           id="rect862"
+           width="5.5150113"
+           height="1.0806192"
+           x="21.672062"
+           y="-8.1549301"
+           rx="0.50606763"
+           ry="0.42660117"
+           transform="matrix(0.32874905,0.94441731,-0.99250964,0.12216632,0,0)" />
+      </g>
+      <g
+         id="g1054"
+         inkscape:label="Scarf">
+        <path
+           id="rect800"
+           style="fill:#800000;stroke:#000000;stroke-width:0.234247"
+           d="m 21.849547,20.013063 1.359101,-1.33969 1.116361,2.077002 1.263402,1.367856 0.959242,0.677118 1.364121,0.622146 1.587239,0.354487 1.105107,0.122142 1.340052,-0.126035 2.03208,-0.602202 1.573877,-0.86882 1.328437,-1.130486 0.64782,-1.023688 0.709909,-1.591857 c 0.311961,-0.699518 2.49765,1.817308 2.49765,2.535648 0,0.718338 -1.954754,2.366488 -2.72067,2.362185 l -3.146922,1.685044 -3.047205,0.479456 -3.045256,-0.06053 -5.115397,-1.509249 c -1.696227,-0.500455 -2.547209,-2.213788 -2.547209,-2.932127 z"
+           sodipodi:nodetypes="cccccccccccccssscccscc" />
+        <path
+           id="path808"
+           style="fill:#800000;stroke:#000000;stroke-width:0.239922"
+           d="m 25.070953,21.607767 c -0.471522,0.228031 -1.347878,0.271248 -1.347593,0.547166 l 0.0064,6.185265 c 2.86e-4,0.275916 0.390783,0.588647 0.902194,0.701737 0.511413,0.113094 0.96004,-0.01801 0.944056,-0.293476 l -0.258602,-4.456733 c -0.01599,-0.275462 1.10089,-2.639047 -0.246453,-2.683958 z"
+           sodipodi:nodetypes="ssssssss" />
+        <path
+           id="rect803"
+           style="fill:#800000;stroke:#000000;stroke-width:0.239922"
+           d="m 24.594327,20.672914 c 0.294738,0.432967 1.03252,0.907884 0.894536,1.146822 l -3.093184,5.356282 c -0.13798,0.238938 -0.632459,0.314983 -1.132047,0.15768 -0.499585,-0.157303 -0.796164,-0.479403 -0.671515,-0.725559 l 3.440102,-6.79353 c 0.124699,-0.246141 -0.221372,-0.292614 0.562105,0.858304 z"
+           sodipodi:nodetypes="sssssss" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Head">
+      <circle
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.183339"
+         id="path186"
+         cx="30.759272"
+         cy="15.937473"
+         inkscape:transform-center-x="-0.84710517"
+         inkscape:transform-center-y="-1.6412157"
+         inkscape:label="Top SnowBall"
+         r="7.8934684" />
+      <g
+         id="g1005"
+         inkscape:label="Hat">
+        <path
+           id="path408"
+           style="fill:#000000;stroke:#000000;stroke-width:0.289479"
+           d="M 29.650572,0.26621617 C 28.888594,0.18852587 28.213318,0.74093029 28.135629,1.5029083 l -0.644125,6.3175332 c -0.0196,0.1922998 2.6e-4,0.3796603 0.05401,0.5527713 A 9.2401454,1.1618294 5.8216497 0 0 22.51406,8.8949564 9.2401454,1.1618294 5.8216497 0 0 31.588018,10.988229 9.2401454,1.1618294 5.8216497 0 0 40.897719,10.76932 9.2401454,1.1618294 5.8216497 0 0 36.380004,9.296954 c 0.09468,-0.1641933 0.159905,-0.3504653 0.180439,-0.5518609 l 0.644119,-6.3175334 c 0.07769,-0.7619778 -0.474482,-1.43953024 -1.236461,-1.51722 z" />
+        <path
+           id="path812"
+           style="fill:#800000;stroke:#000000;stroke-width:0.281477"
+           d="m 36.890153,7.9563438 c 0,0 -0.108949,1.2728295 -0.403346,1.2425311 L 27.848988,8.3098868 c -0.382869,-0.039398 -0.58474,0.063612 -0.665031,-0.4485369 -0.0803,-0.5121513 -0.132925,-1.2758193 0.25252,-1.2602078 l 9.464767,0.9118411 z"
+           sodipodi:nodetypes="csssscc" />
+      </g>
+      <path
+         id="path597"
+         style="fill:#d45500;stroke:#000000;stroke-width:0.234247"
+         inkscape:transform-center-x="0.59630532"
+         d="m 23.940086,17.060927 2.667269,-0.748862 1.430326,-0.372185 1.569882,-0.236389 0.968188,0.105027 0.418288,1.112237 -0.873865,0.376307 -1.073321,0.105027 -0.932041,0.09584 -1.227102,-0.108656 z"
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:label="Nose"
+         inkscape:transform-center-y="1.6567915e-06" />
+    </g>
+    <g
+       id="g1034"
+       inkscape:label="Glasses">
+      <g
+         id="g993"
+         inkscape:label="Glasses arms"
+         transform="matrix(1.1712343,0,0,1.1712343,-6.665112,-6.3275482)">
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.00989803"
+           id="ellipse983"
+           cx="27.026525"
+           cy="6.762291"
+           inkscape:transform-center-x="-0.10336482"
+           inkscape:transform-center-y="0.012817347"
+           rx="1.1245914"
+           ry="0.16148478"
+           transform="matrix(0.92689081,0.37533109,0.25320425,0.96741284,0,0)" />
+        <path
+           id="ellipse985"
+           style="stroke:#000000;stroke-width:0.00989803"
+           inkscape:transform-center-x="-0.1008125"
+           inkscape:transform-center-y="-0.026178909"
+           transform="matrix(0.99997324,0.00731634,0.59191166,0.80600285,0,0)"
+           d="m 19.378274,21.485348 c 10e-7,0.08919 -0.338036,-0.433978 -0.959131,-0.433978 -0.621095,0 -1.290052,0.523164 -1.290051,0.433978 -1e-6,-0.08919 0.844873,-0.675019 1.465968,-0.675019 0.621095,0 0.783215,0.585833 0.783214,0.675019 z"
+           sodipodi:nodetypes="sssss" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.0165651"
+           id="ellipse987"
+           cx="-1.4084854"
+           cy="41.395378"
+           inkscape:transform-center-x="-0.17729849"
+           inkscape:transform-center-y="-0.051796319"
+           rx="2.0997212"
+           ry="0.242246"
+           transform="matrix(0.99046988,-0.13772953,0.91111083,0.41216144,0,0)" />
+      </g>
+      <ellipse
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.0362663"
+         id="circle920"
+         cx="26.935555"
+         cy="13.710737"
+         inkscape:transform-center-x="-0.16822227"
+         inkscape:transform-center-y="-0.3233799"
+         rx="1.5675275"
+         ry="1.5553036" />
+      <ellipse
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.0362663"
+         id="ellipse926"
+         cx="32.262299"
+         cy="14.324015"
+         inkscape:transform-center-x="-0.16822147"
+         inkscape:transform-center-y="-0.32337918"
+         rx="1.5675275"
+         ry="1.5553036" />
+    </g>
+    <g
+       id="g1038"
+       inkscape:label="Eyes">
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.149322"
+         id="ellipse477"
+         cx="26.941216"
+         cy="13.757874"
+         rx="0.84421962"
+         ry="0.89377958" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.149322"
+         id="ellipse479"
+         cx="32.235661"
+         cy="14.37738"
+         rx="0.84421962"
+         ry="0.89377958" />
+    </g>
+    <g
+       id="g1044"
+       inkscape:label="Mouth">
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.111114"
+         id="ellipse481"
+         cx="32.714909"
+         cy="19.27886"
+         rx="0.62820375"
+         ry="0.6650824" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.111114"
+         id="ellipse483"
+         cx="30.930738"
+         cy="20.468307"
+         rx="0.62820375"
+         ry="0.6650824" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.111114"
+         id="ellipse485"
+         cx="28.849209"
+         cy="20.170946"
+         rx="0.62820375"
+         ry="0.6650824" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.111114"
+         id="ellipse491"
+         cx="27.065041"
+         cy="19.27886"
+         rx="0.62820375"
+         ry="0.6650824" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Snowman"
+     inkscape:groupmode="layer"
+     id="g1803"
+     transform="translate(69.226561,1.0680441)"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="g1719"
+       inkscape:label="Bottom"
+       sodipodi:insensitive="true"
+       transform="translate(0,-0.29956518)">
+      <circle
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.366677"
+         id="circle1709"
+         cx="33.749062"
+         cy="46.967293"
+         inkscape:transform-center-x="-1.6942085"
+         inkscape:transform-center-y="-3.2824343"
+         inkscape:label="Bottom snow"
+         r="15.786938" />
+      <g
+         id="g1717"
+         inkscape:label="Buttons"
+         transform="translate(2.776063,-1.0297889)">
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.231752"
+           id="ellipse1711"
+           cx="29.13389"
+           cy="42.027004"
+           rx="1.3481669"
+           ry="1.3481666" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.231752"
+           id="ellipse1713"
+           cx="29.13389"
+           cy="47.379505"
+           rx="1.3481669"
+           ry="1.3481666" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.231752"
+           id="ellipse1715"
+           cx="29.13389"
+           cy="53.029373"
+           rx="1.3481669"
+           ry="1.3481666" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g1759"
+       inkscape:label="Torso"
+       transform="translate(0,-0.4002106)">
+      <g
+         id="g1731"
+         inkscape:label="Left Arm"
+         style="fill:#803300"
+         transform="matrix(1.1712343,0,0,1.1712343,-3.0820808,-7.3573371)">
+        <g
+           id="g1832"
+           inkscape:label="Fingers"
+           style="fill:#803300"
+           transform="rotate(-36.214191,14.772691,20.215669)">
+          <rect
+             style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+             id="rect1723"
+             width="3.5093927"
+             height="0.59124005"
+             x="21.165031"
+             y="7.3703613"
+             rx="0.32202837"
+             ry="0.23340663"
+             transform="matrix(0.80946447,0.58716887,-0.69497604,0.7190329,0,0)" />
+          <rect
+             style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+             id="rect1725"
+             width="3.5093927"
+             height="0.59124005"
+             x="15.498157"
+             y="-13.856754"
+             rx="0.32202837"
+             ry="0.23340663"
+             transform="matrix(0.07252961,0.99736626,-0.9976728,-0.06818344,0,0)" />
+          <rect
+             style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+             id="rect1727"
+             width="3.5093927"
+             height="0.59124005"
+             x="-0.59231448"
+             y="-24.700563"
+             rx="0.32202837"
+             ry="0.23340663"
+             transform="matrix(-0.61562764,0.78803719,-0.69382314,-0.72014544,0,0)" />
+        </g>
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.2"
+           id="rect1721"
+           width="8.7967405"
+           height="1.0771519"
+           x="27.558928"
+           y="8.4600601"
+           rx="0.8072052"
+           ry="0.42523238"
+           transform="rotate(38.477884)"
+           sodipodi:insensitive="true" />
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.158614"
+           id="rect1729"
+           width="5.5150113"
+           height="1.0806192"
+           x="21.672062"
+           y="-8.1549301"
+           rx="0.50606763"
+           ry="0.42660117"
+           transform="matrix(0.32874905,0.94441731,-0.99250964,0.12216632,0,0)"
+           sodipodi:insensitive="true" />
+      </g>
+      <circle
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.275008"
+         id="circle1733"
+         cx="34.618107"
+         cy="27.009546"
+         inkscape:transform-center-x="-1.2706558"
+         inkscape:transform-center-y="-2.4618267"
+         inkscape:label="Torso"
+         r="11.840202" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.231752"
+         id="ellipse1735"
+         cx="32.716923"
+         cy="26.723869"
+         rx="1.3481669"
+         ry="1.3481666"
+         inkscape:label="Button" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.231752"
+         id="ellipse1737"
+         cx="32.716923"
+         cy="32.869335"
+         rx="1.3481669"
+         ry="1.3481666"
+         inkscape:label="Button" />
+      <g
+         id="g1749"
+         inkscape:label="Right Arm"
+         transform="matrix(-1.0373682,-0.7103575,0.69947081,-1.0214698,45.739653,73.498256)"
+         style="fill:#803300">
+        <g
+           id="g1823"
+           inkscape:label="Fingers"
+           transform="matrix(0.902093,0.43825835,-0.42492802,0.90209295,9.9209137,-4.5045843)"
+           style="fill:#803300">
+          <rect
+             style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+             id="rect1741"
+             width="3.5093927"
+             height="0.59124005"
+             x="21.165031"
+             y="7.3703613"
+             rx="0.32202837"
+             ry="0.23340663"
+             transform="matrix(0.80946447,0.58716887,-0.69497604,0.7190329,0,0)" />
+          <rect
+             style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+             id="rect1743"
+             width="3.5093927"
+             height="0.59124005"
+             x="15.498157"
+             y="-13.856754"
+             rx="0.32202837"
+             ry="0.23340663"
+             transform="matrix(0.07252961,0.99736626,-0.9976728,-0.06818344,0,0)" />
+          <rect
+             style="fill:#803300;stroke:#000000;stroke-width:0.0935901"
+             id="rect1745"
+             width="3.5093927"
+             height="0.59124005"
+             x="-0.59231448"
+             y="-24.700563"
+             rx="0.32202837"
+             ry="0.23340663"
+             transform="matrix(-0.61562764,0.78803719,-0.69382314,-0.72014544,0,0)" />
+        </g>
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.2"
+           id="rect1739"
+           width="8.7967405"
+           height="1.0771519"
+           x="27.558928"
+           y="8.4600601"
+           rx="0.8072052"
+           ry="0.42523238"
+           transform="rotate(38.477884)"
+           sodipodi:insensitive="true" />
+        <rect
+           style="fill:#803300;stroke:#000000;stroke-width:0.158614"
+           id="rect1747"
+           width="5.5150113"
+           height="1.0806192"
+           x="21.672062"
+           y="-8.1549301"
+           rx="0.50606763"
+           ry="0.42660117"
+           transform="matrix(0.32874905,0.94441731,-0.99250964,0.12216632,0,0)"
+           sodipodi:insensitive="true" />
+      </g>
+      <g
+         id="g1757"
+         inkscape:label="Scarf"
+         transform="translate(3.5830312,-1.0297889)">
+        <path
+           id="path1751"
+           style="fill:#800000;stroke:#000000;stroke-width:0.234247"
+           d="m 21.849547,20.013063 1.359101,-1.33969 1.116361,2.077002 1.263402,1.367856 0.959242,0.677118 1.364121,0.622146 1.587239,0.354487 1.105107,0.122142 1.340052,-0.126035 2.03208,-0.602202 1.573877,-0.86882 1.328437,-1.130486 0.64782,-1.023688 0.709909,-1.591857 c 0.311961,-0.699518 2.49765,1.817308 2.49765,2.535648 0,0.718338 -1.954754,2.366488 -2.72067,2.362185 l -3.146922,1.685044 -3.047205,0.479456 -3.045256,-0.06053 -5.115397,-1.509249 c -1.696227,-0.500455 -2.547209,-2.213788 -2.547209,-2.932127 z"
+           sodipodi:nodetypes="cccccccccccccssscccscc" />
+        <path
+           id="path1753"
+           style="fill:#800000;stroke:#000000;stroke-width:0.239922"
+           d="m 25.070953,21.607767 c -0.471522,0.228031 -1.347878,0.271248 -1.347593,0.547166 l 0.0064,6.185265 c 2.86e-4,0.275916 0.390783,0.588647 0.902194,0.701737 0.511413,0.113094 0.96004,-0.01801 0.944056,-0.293476 l -0.258602,-4.456733 c -0.01599,-0.275462 1.10089,-2.639047 -0.246453,-2.683958 z"
+           sodipodi:nodetypes="ssssssss" />
+        <path
+           id="path1755"
+           style="fill:#800000;stroke:#000000;stroke-width:0.239922"
+           d="m 24.594327,20.672914 c 0.294738,0.432967 1.03252,0.907884 0.894536,1.146822 l -3.093184,5.356282 c -0.13798,0.238938 -0.632459,0.314983 -1.132047,0.15768 -0.499585,-0.157303 -0.796164,-0.479403 -0.671515,-0.725559 l 3.440102,-6.79353 c 0.124699,-0.246141 -0.221372,-0.292614 0.562105,0.858304 z"
+           sodipodi:nodetypes="sssssss" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g1771"
+       inkscape:label="Head"
+       transform="rotate(9.6669035,33.817398,15.033465)">
+      <circle
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:0.183339"
+         id="circle1761"
+         cx="34.330845"
+         cy="14.772178"
+         inkscape:transform-center-x="-0.84710517"
+         inkscape:transform-center-y="-1.6412157"
+         inkscape:label="Top SnowBall"
+         r="7.8934684" />
+      <g
+         id="g1767"
+         inkscape:label="Hat"
+         transform="translate(3.5715729,-1.165295)">
+        <path
+           id="path1763"
+           style="fill:#000000;stroke:#000000;stroke-width:0.289479"
+           d="M 29.650572,0.26621617 C 28.888594,0.18852587 28.213318,0.74093029 28.135629,1.5029083 l -0.644125,6.3175332 c -0.0196,0.1922998 2.6e-4,0.3796603 0.05401,0.5527713 A 9.2401454,1.1618294 5.8216497 0 0 22.51406,8.8949564 9.2401454,1.1618294 5.8216497 0 0 31.588018,10.988229 9.2401454,1.1618294 5.8216497 0 0 40.897719,10.76932 9.2401454,1.1618294 5.8216497 0 0 36.380004,9.296954 c 0.09468,-0.1641933 0.159905,-0.3504653 0.180439,-0.5518609 l 0.644119,-6.3175334 c 0.07769,-0.7619778 -0.474482,-1.43953024 -1.236461,-1.51722 z" />
+        <path
+           id="path1765"
+           style="fill:#800000;stroke:#000000;stroke-width:0.281477"
+           d="m 36.890153,7.9563438 c 0,0 -0.108949,1.2728295 -0.403346,1.2425311 L 27.848988,8.3098868 c -0.382869,-0.039398 -0.58474,0.063612 -0.665031,-0.4485369 -0.0803,-0.5121513 -0.132925,-1.2758193 0.25252,-1.2602078 l 9.464767,0.9118411 z"
+           sodipodi:nodetypes="csssscc" />
+      </g>
+      <path
+         id="path1769"
+         style="fill:#d45500;stroke:#000000;stroke-width:0.234247"
+         inkscape:transform-center-x="0.59630532"
+         d="m 27.511659,15.895632 2.667269,-0.748862 1.430326,-0.372185 1.569882,-0.236389 0.968188,0.105027 0.418288,1.112237 -0.873865,0.376307 -1.073321,0.105027 -0.932041,0.09584 -1.227102,-0.108656 z"
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:label="Nose"
+         inkscape:transform-center-y="1.6567915e-06" />
+      <g
+         id="g1785"
+         inkscape:label="Glasses"
+         transform="translate(3.5715729,-1.165295)">
+        <g
+           id="g1779"
+           inkscape:label="Glasses arms"
+           transform="matrix(1.1712343,0,0,1.1712343,-6.665112,-6.3275482)">
+          <ellipse
+             style="fill:#000000;stroke:#000000;stroke-width:0.00989803"
+             id="ellipse1773"
+             cx="27.026525"
+             cy="6.762291"
+             inkscape:transform-center-x="-0.10336482"
+             inkscape:transform-center-y="0.012817347"
+             rx="1.1245914"
+             ry="0.16148478"
+             transform="matrix(0.92689081,0.37533109,0.25320425,0.96741284,0,0)" />
+          <path
+             id="path1775"
+             style="stroke:#000000;stroke-width:0.00989803"
+             inkscape:transform-center-x="-0.1008125"
+             inkscape:transform-center-y="-0.026178909"
+             transform="matrix(0.99997324,0.00731634,0.59191166,0.80600285,0,0)"
+             d="m 19.378274,21.485348 c 10e-7,0.08919 -0.338036,-0.433978 -0.959131,-0.433978 -0.621095,0 -1.290052,0.523164 -1.290051,0.433978 -1e-6,-0.08919 0.844873,-0.675019 1.465968,-0.675019 0.621095,0 0.783215,0.585833 0.783214,0.675019 z"
+             sodipodi:nodetypes="sssss" />
+          <ellipse
+             style="fill:#000000;stroke:#000000;stroke-width:0.0165651"
+             id="ellipse1777"
+             cx="-1.4084854"
+             cy="41.395378"
+             inkscape:transform-center-x="-0.17729849"
+             inkscape:transform-center-y="-0.051796319"
+             rx="2.0997212"
+             ry="0.242246"
+             transform="matrix(0.99046988,-0.13772953,0.91111083,0.41216144,0,0)" />
+        </g>
+        <ellipse
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.0362663"
+           id="ellipse1781"
+           cx="26.935555"
+           cy="13.710737"
+           inkscape:transform-center-x="-0.16822227"
+           inkscape:transform-center-y="-0.3233799"
+           rx="1.5675275"
+           ry="1.5553036" />
+        <ellipse
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.0362663"
+           id="ellipse1783"
+           cx="32.262299"
+           cy="14.324015"
+           inkscape:transform-center-x="-0.16822147"
+           inkscape:transform-center-y="-0.32337918"
+           rx="1.5675275"
+           ry="1.5553036" />
+      </g>
+      <g
+         id="g1791"
+         inkscape:label="Eyes"
+         transform="translate(3.5715729,-1.165295)">
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.149322"
+           id="ellipse1787"
+           cx="26.941216"
+           cy="13.757874"
+           rx="0.84421962"
+           ry="0.89377958" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.149322"
+           id="ellipse1789"
+           cx="32.235661"
+           cy="14.37738"
+           rx="0.84421962"
+           ry="0.89377958" />
+      </g>
+      <g
+         id="g1801"
+         inkscape:label="Mouth"
+         transform="translate(3.5715729,-1.165295)">
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.111114"
+           id="ellipse1793"
+           cx="32.714909"
+           cy="19.27886"
+           rx="0.62820375"
+           ry="0.6650824" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.111114"
+           id="ellipse1795"
+           cx="30.930738"
+           cy="20.468307"
+           rx="0.62820375"
+           ry="0.6650824" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.111114"
+           id="ellipse1797"
+           cx="28.849209"
+           cy="20.170946"
+           rx="0.62820375"
+           ry="0.6650824" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.111114"
+           id="ellipse1799"
+           cx="27.065041"
+           cy="19.27886"
+           rx="0.62820375"
+           ry="0.6650824" />
+      </g>
+    </g>
+  </g>
+</svg>
